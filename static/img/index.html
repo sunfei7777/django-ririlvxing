@@ -1,0 +1,279 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="Javascript/jquery-1.4.1.min.js" type="text/javascript"></script>
+    <script src="Javascript/jquery.leanModal.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //$('#aOpen').leanModal({ top: 100, closeButton: ".modal_close" });
+            $('a[rel*=leanModal]').leanModal({ top: 100, closeButton: ".modal_close" });
+        });
+    </script>
+    <style type="text/css">
+        #lean_overlay { position: fixed; z-index: 100; top: 0px; left: 0px; height: 100%; width: 100%; background: #000; display: none; }
+        #OpenWindow { background: none repeat scroll 0 0 #FFFFFF; border-radius: 5px 5px 5px 5px; box-shadow: 0 0 4px rgba(0, 0, 0, 0.7); display: none; padding-bottom: 2px; width: 404px; z-index: 11000; left: 50%; margin-left: -202px; opacity: 1; position: fixed; top: 200px; }
+        #OpenWindow-header { background: url("Image/hd-bg.png") repeat scroll 0 0 transparent; border-bottom: 1px solid #CCCCCC; border-top-left-radius: 5px; border-top-right-radius: 5px; padding: 18px 18px 14px; }
+        .modal_close { background: url("Image/modal_close.png") repeat scroll 0 0 transparent; display: block; height: 14px; position: absolute; right: 12px; top: 12px; width: 14px; z-index: 2; }
+        body { font-size: 13px; }
+        #OpenWindow .txt-fld { border-bottom: 1px solid #EEEEEE; padding: 14px 20px; position: relative; text-align: right; width: 364px; }
+        #OpenWindow .txt-fld input { background: none repeat scroll 0 0 #F7F7F7; border-color: #CCCCCC #E7E6E6 #E7E6E6 #CCCCCC; border-radius: 4px 4px 4px 4px; border-style: solid; border-width: 1px; color: #222222; font-family: "Helvetica Neue"; font-size: 1.2em; outline: medium none; padding: 8px; width: 244px; }
+        #OpenWindow .txt-fld input.good_input { background: url("Image/good.png") no-repeat scroll 236px center #DEF5E1; }
+        #OpenWindow .btn-fld { overflow: hidden; padding: 12px 20px 12px 130px; width: 254px; }
+        button { background: none repeat scroll 0 0 #3F9D4A; border: medium none; border-radius: 4px 4px 4px 4px; color: #FFFFFF; float: right; font-family: Verdana; font-size: 13px; font-weight: bold; overflow: visible; padding: 7px 10px; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4); width: auto; }
+    </style>
+
+
+<style type="text/css">
+        body {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .click_area {
+            height: 320px;
+            text-align: center;
+            background: #777777;
+        }
+
+        #season {
+            border: none;
+        }
+
+        .keywords {
+            color: #FF0000;
+        }
+    </style>
+    <script type="text/javascript">
+        var touch = 1;
+        var spring = 0;
+        var summer = 0;
+        var autumn = 0;
+        var winter = 0;
+        var first = false;
+        var second = false;
+        function changeStyle () {
+            if (touch < 4) {
+                touch++;
+            } else {
+                touch = 1;
+            }
+            spring = 0;
+            summer = 0;
+            autumn = 0;
+            winter = 0;
+            first = false;
+            second = false;
+            $("txt1").style.color = "#FF0000";
+            $("txt2").style.color = "#FF0000";
+            // Spring
+            if (touch == 1) {
+                $("season").src = "images/spring.jpg";
+                $("season").useMap = "#springMap";
+                $("txt1").innerText = "春";
+                $("txt2").innerText = "桃";
+            }
+            // Summer
+            if (touch == 2) {
+                $("season").src = "images/summer.jpg";
+                $("season").useMap = "#summerMap";
+                $("txt1").innerText = "夏";
+                $("txt2").innerText = "荷";
+            }
+            // Autumn
+            if (touch == 3) {
+                $("season").src = "images/autumn.jpg";
+                $("season").useMap = "#autumnMap";
+                $("txt1").innerText = "秋";
+                $("txt2").innerText = "菊";
+            }
+            // Winter
+            if (touch == 4) {
+                $("season").src = "images/winter.jpg";
+                $("season").useMap = "#winterMap";
+                $("txt1").innerText = "冬";
+                $("txt2").innerText = "梅";
+            }
+        }
+
+        // Spring
+        function springClick (txt) {
+            if (spring == 0) {
+                if (txt == "春") {
+                    first = true;
+                    $("txt1").style.color = "#008040";
+                }
+            }
+            if (spring == 1) {
+                if (txt == "桃") {
+                    second = true;
+                    $("txt2").style.color = "#008040";
+                }
+            }
+            if (spring >= 1) {
+                if (first && second) {
+                    alert("验证成功!");
+                    changeStyle();
+                } else {
+                    alert("验证失败!");
+                    changeStyle();
+                }
+            }
+            spring++;
+        }
+
+        // Summer
+        function summerClick (txt) {
+            if (summer == 0) {
+                if (txt == "夏") {
+                    first = true;
+                    $("txt1").style.color = "#008040";
+                }
+            }
+            if (summer == 1) {
+                if (txt == "荷") {
+                    second = true;
+                    $("txt2").style.color = "#008040";
+                }
+            }
+            if (summer >= 1) {
+                if (first && second) {
+                    alert("验证成功!");
+                    changeStyle();
+                } else {
+                    alert("验证失败!");
+                    changeStyle();
+                }
+            }
+            summer++;
+        }
+
+        // Autumn
+        function autumnClick (txt) {
+            if (autumn == 0) {
+                if (txt == "秋") {
+                    first = true;
+                    $("txt1").style.color = "#008040";
+                }
+            }
+            if (autumn == 1) {
+                if (txt == "菊") {
+                    second = true;
+                    $("txt2").style.color = "#008040";
+                }
+            }
+            if (autumn >= 1) {
+                if (first && second) {
+                    alert("验证成功!");
+                    changeStyle();
+                } else {
+                    alert("验证失败!");
+                    changeStyle();
+                }
+            }
+            autumn++;
+        }
+
+        // Winter
+        function winterClick (txt) {
+            if (winter == 0) {
+                if (txt == "冬") {
+                    first = true;
+                    $("txt1").style.color = "#008040";
+                }
+            }
+            if (winter == 1) {
+                if (txt == "梅") {
+                    second = true;
+                    $("txt2").style.color = "#008040";
+                }
+            }
+            if (winter >= 1) {
+                if (first && second) {
+                    alert("验证成功!");
+                    changeStyle();
+                } else {
+                    alert("验证失败!");
+                    changeStyle();
+                }
+            }
+            winter++;
+        }
+        
+        // 图片抖动脚本
+        var typ = ["marginTop", "marginLeft"], rangeN=10, timeout=20;
+        function shake(o, end){
+            var range = Math.floor(Math.random() * rangeN);
+            var typN = Math.floor(Math.random() * typ.length);
+            o["style"][typ[typN]] = "" + range + "px";
+            var shakeTimer = setTimeout(function(){shake(o, end)}, timeout);
+            o[end] = function(){
+                clearTimeout(shakeTimer)
+            };
+        }
+
+        function $(id){
+            return document.getElementById(id);
+        }
+    </script>
+
+
+    
+</head>
+<body>
+    <div style="text-align: center">
+        <ul>
+            <li><a id="aOpen" href="#OpenWindow" rel="leanModal">打开登陆窗口</a></li>
+            <li><a href="#reg" rel="leanModal">打开描述窗口</a></li>
+        </ul>
+    </div>
+    <div id="OpenWindow">
+        <div id="signup-ct">
+            <div id="OpenWindow-header">
+                <h2>
+                    Create a new account</h2>
+                <p>
+                    It's simple, and free.</p>
+                <a href="#" class="modal_close"></a>
+            </div>
+            <form action="">
+            <div class="txt-fld">
+                <label for="">
+                    Username</label>
+                <input type="text" name="" class="good_input" id="" />
+            </div>
+            <div class="txt-fld">
+                <label for="">
+                    Email address</label>
+                <input type="text" name="" id="" />
+            </div>
+            <div class="txt-fld">
+                <label for="">
+                    Password</label>
+                <input type="text" name="" id="" />
+            </div>
+            <div class="btn-fld">
+                <button type="submit">
+                    Sign Up »</button>
+            </div>
+            </form>
+        </div>
+    </div>
+    <div id="reg" style="background: none repeat scroll 0 0 #FFFFFF; border-radius: 5px 5px 5px 5px;
+        box-shadow: 0 0 4px rgba(0, 0, 0, 0.7); display: none; padding-bottom: 2px; width: 404px;
+        z-index: 11000; left: 50%; margin-left: -202px; opacity: 1; position: fixed;
+        top: 200px;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum libero purus,
+        convallis nec vestibulum eget, luctus vitae purus. Vestibulum non mauris et sem
+        vulputate pellentesque ac a turpis. Ut vel lacus vitae justo vestibulum lobortis.
+        Nunc ipsum ipsum, laoreet id dictum nec, fermentum vel purus. Maecenas nisl felis,
+        faucibus non rutrum eu, sollicitudin sed ante. Class aptent taciti sociosqu ad litora
+        torquent per conubia nostra, per inceptos himenaeos. Praesent dignissim lacinia
+        tempus. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus
+        et malesuada fames ac turpis egestas. Nulla facilisi. Nulla accumsan pellentesque
+        velit, a malesuada diam tristique a. Fusce eleifend magna erat, et imperdiet orci.
+        Quisque sapien mauris, malesuada eu tristique pulvinar, placerat id ligula. Vivamus
+        vitae viverra nulla. Donec eget turpis vel erat malesuada sodales.
+    </div>
+</body>
+</html>

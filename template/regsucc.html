@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block title %}
+旅行日，就上日日旅行{% endblock%}
+
+
+{% block css/js %}
+<script type="text/javascript" src="{% static 'js/register.js'%}"></script>
+<link href="{% static 'css/register.css'%}" type="text/css" rel="stylesheet" />
+{% endblock%}
+
+{% block body_block %}
+
+<div class="register-daohang">
+    <div class="logo">
+        <!-- <h1>
+            <a href="http://www.ririlvxing.com">
+                <img src="img/logo1.png">
+            </a>       
+        </h1> -->
+        <h2 class="tsl" data-phase-id="r_p_registration">
+            账户注册
+        </h2>
+    </div>
+    <div class="steps">
+    <ol>
+        <li>
+            <i>
+                1
+            </i>
+            <span class="tsl" data-phase-id="r_p_createAccount">
+                填写注册信息
+            </span>
+        </li>
+        <li  class="active">
+            <i>
+                2
+            </i>
+            <span class="tsl" data-phase-id="r_p_fillUserInfo">
+                注册成功
+            </span>
+        </li>
+    </ol>
+</div>
+
+</div>
+
+
+<div class="register-success">
+    <h2>恭喜您注册成功！</h2><img src="{% static 'img/duihao.png' %}">
+    <br class="clearboth"/>
+    <h2 class="nextstep">下一步，请验证您的Email！</h2>
+    <p>我们发送了一封验证邮件到2629960826@qq.com，请到您的邮箱收取邮件，并点击邮箱中的链接来验证邮件。</p>
+    <div class="v-email">
+        <a href="http://mail.heheai.com/">立即激活</a><br/><br/><br/>
+    </div>
+    <div class="n-email">
+        <p>
+            收不到邮件？
+            <div class="n-list">
+            <ul>
+                <li>1.有可能被误判为垃圾邮件啦，请到垃圾邮件文件夹找找。</li>
+                <li>2.用2629960826@qq.com向sunpengfei@hrbeu.edu.cn发送一封任意内容的邮件，几分钟后即可直接登陆日日旅行网。</li>
+            </ul>
+            </div>
+        </p>
+    </div>
+</div>
+
+{% endblock %}

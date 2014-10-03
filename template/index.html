@@ -1,0 +1,204 @@
+
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block title %}旅行日，就上日日旅行{% endblock%}
+{% block body_block %}
+<div class="eachBox">
+<div class="changeBox_a1" id="change_4">
+<a href="#1" class="a_bigImg"><img src="{% static 'img/1.jpg'%}" width="650" height="250" alt="" /></a>
+<a href="#2" class="a_bigImg"><img src="{% static 'img/2.jpg'%}" width="650" height="250" alt="" /></a>
+<a href="#3" class="a_bigImg"><img src="{% static 'img/3.jpg'%}" width="650" height="250" alt="" /></a>
+<a href="#4" class="a_bigImg"><img src="{% static 'img/4.jpg'%}" width="650" height="250" alt="" /></a>
+<ul class="ul_change_a1">
+<li><a href="#"><img src="{% static 'img/1_s.jpg'%}" width="67" height="40" alt="" /></a></li>
+<li><a href="#"><img src="{% static 'img/2_s.jpg'%}" width="67" height="40" alt="" /></a></li>
+<li><a href="#"><img src="{% static 'img/3_s.jpg'%}" width="67" height="40" alt="" /></a></li>
+<li><a href="#"><img src="{% static 'img/4_s.jpg'%}" width="67" height="40" alt="" /></a></li>
+</ul>
+</div>
+<div class="right_gg">
+<h1 style="color:blue">旅行日上日日旅行</h1>
+<p>
+    您要旅行吗？<br/>
+    您对要游玩的地方熟悉吗？</br>
+    您预订机票和酒店了吗？<br/>
+    您制定了出游计划吗？</br>
+    快来日日旅行制定一份详细的出行计划吧！<br/>
+    <a href="/t/settrip">点击创建行程</a>
+</p>
+</div>
+</div>
+<div class="xc_list">
+<div class="changebox">
+    <div class="changeBox_b1" id="change_6">
+        <h3 id="tab1" onclick="JavaScript:ChangeDiv('xc_table','content2',this)" class="now"><a href="#" >推荐行程</a></h3>
+            
+        <h3 id="tab2" onclick="JavaScript:ChangeDiv('content2','xc_table',this)"><a href="#" >招募中的行程</a></h3>
+    </div>
+<div class="form">
+    <form id="form1" action="" method="post">
+        <label>目的地:</label><input type="text" id="city" style="width:50px;">
+        <label>时间:</label><input type="text" id="date" onClick="WdatePicker()" style="width:80px;">
+        <label>人数:</label><input type="text" id="peoplenum" style="width:80px;">
+        <label>历时:</label><input type="text" id="time" style="width:15px;">-<input type="text" id="time1" style="width:15px;"><label>天</label>
+        <label>花费:</label><input type="text" id="cost" style="width:80px;"><label>元</label>
+        <label>创建者:</label><input type="text" id="build" style="width:80px;">
+        <input type="submit" value="搜索" id="searchbtn" class="searchbtn">
+    </form>
+</div>
+ <div class="xc_table" id="xc_table">
+    <ul>
+        <li>
+            <table>
+                <tr>
+                    <td>
+                        <a title="川北甘南祁连山发现之旅" target="_blank" href="plans/r0qz1m/map">
+                         <img width="140" height="100" alt="川北甘南祁连山发现之旅" src="{% static 'img/qilianshan.jpg'%}"></img>
+                        </a>
+                    </td>
+                    <td style="width:300px;padding:0 20px ;"> 
+                          <h4>
+                            <a title="川北甘南祁连山发现之旅" class="title" href="/plans/r0qz1m/map" target="_blank">川北甘南祁连山发现之旅</a>
+                            </h4>
+                             <p class="xc_jd" style="width:250px;">
+                                 <a href="/items/60zmhn" target="_blank">天安门</a>->
+                                 <a href="/items/q0zcc8" target="_blank">故宫</a>->
+                                 <a href="/items/0a4q34" target="_blank">颐和园</a>->
+                                 <a href="/items/n0zcpa" target="_blank">圆明园</a>->
+                                 <a href="/items/zn0ae9" target="_blank">北海公园</a>->
+                                 <a href="/items/m0zcf7" target="_blank">国家博物馆</a>->
+                                 <a href="/items/m0zcs4" target="_blank">动物园</a>->
+                                 <a href="/items/0ao1x6" target="_blank">鸟巢</a>->
+                                 <a href="/items/p0zgtc" target="_blank">水立方</a>
+                             </p>
+                    </td>
+                    <td >
+                        时间：2014-9-21|
+                    </td>
+                    <td style="width:80px;">
+                        历时：3天
+                    </td>
+                     <td style="width:80px;">
+                        规模：10人
+                    </td>
+                    <td style="width:100px;">
+                        创建者：孙鹏飞
+                    </td>
+                    <td style="width:100px;" >
+                       <a href="#" style="text-decoration:underline;" >58条评论</a>
+                       <br/>
+                       <a href=""><img src="{% static 'img/zan.png'%}" style="vertical-align: -7px;">赞(2)</a>
+                    </td>
+                </tr>
+            </table>
+            
+        </li>
+        <li>
+            <table>
+                <tr>
+                    <td>
+                        <a title="川北甘南祁连山发现之旅" target="_blank" href="plans/r0qz1m/map">
+                         <img width="140" height="100" alt="川北甘南祁连山发现之旅" src="{% static 'img/zhuluoji.jpg'%}"></img>
+                        </a>
+                    </td>
+                    <td style="width:300px;padding:0 20px ;"> 
+                          <h4>
+                            <a title="川北甘南祁连山发现之旅" class="title" href="/plans/r0qz1m/map" target="_blank">侏罗纪公园之冒险记</a>
+                            </h4>
+                             <p class="xc_jd" style="width:250px;">
+                                 <a href="/items/60zmhn" target="_blank">翼龙馆</a>->
+                                 <a href="/items/q0zcc8" target="_blank">剑龙馆</a>->
+                                 <a href="/items/0a4q34" target="_blank">餐厅</a>->
+                                 <a href="/items/n0zcpa" target="_blank">霸王龙馆</a>->
+                                 <a href="/items/zn0ae9" target="_blank">侏罗纪公园纪念馆</a>->
+                                 <a href="/items/m0zcf7" target="_blank">霸王龙餐厅</a>->
+                                 <a href="/items/m0zcs4" target="_blank">霸王龙蛋区</a>->
+                                 <a href="/items/0ao1x6" target="_blank">飞机观赏区</a>->
+                                 <a href="/items/p0zgtc" target="_blank">海龙区</a>
+                             </p>
+                    </td>
+                    <td >
+                        时间：2014-9-21|
+                    </td>
+                    <td style="width:80px;">
+                        历时：2天
+                    </td>
+                     <td style="width:80px;">
+                        规模：2人
+                    </td>
+                    <td style="width:100px;">
+                        创建者：刘佳坤
+                    </td>
+                    <td style="width:100px;" >
+                       <a href="#" style="text-decoration:underline;" >58条评论</a>
+                       <br/>
+                       <a href=""><img src="{% static 'img/zan.png'%}" style="vertical-align: -7px;">赞(8)</a>
+                    </td>
+                </tr>
+            </table>
+            
+        </li>
+    </ul>
+    <div class="page-num"><a href="#"><<上一页</a><input type="text" style="width:20px;margin-left:5px;"><a href="#">跳转</a><a href="#">下一页>></a>
+    </div>
+</div>
+<!-- 第一个结束 -->
+<div id="content2" style="display:none" class="xc_table">
+    <ul>
+        <li>
+            <table>
+                <tr>
+                    <td>
+                        <a title="川北甘南祁连山发现之旅" target="_blank" href="plans/r0qz1m/map">
+                         <img width="140" height="100" alt="川北甘南祁连山发现之旅" src="{% static 'img/zhuluoji.jpg'%}"></img>
+                        </a>
+                    </td>
+                    <td style="width:300px;padding:0 20px ;"> 
+                          <h4>
+                            <a title="川北甘南祁连山发现之旅" class="title" href="/plans/r0qz1m/map" target="_blank">侏罗纪公园之冒险记</a>
+                            </h4>
+                             <p class="xc_jd" style="width:250px;">
+                                 <a href="/items/60zmhn" target="_blank">翼龙馆</a>->
+                                 <a href="/items/q0zcc8" target="_blank">剑龙馆</a>->
+                                 <a href="/items/0a4q34" target="_blank">餐厅</a>->
+                                 <a href="/items/n0zcpa" target="_blank">霸王龙馆</a>->
+                                 <a href="/items/zn0ae9" target="_blank">侏罗纪公园纪念馆</a>->
+                                 <a href="/items/m0zcf7" target="_blank">霸王龙餐厅</a>->
+                                 <a href="/items/m0zcs4" target="_blank">霸王龙蛋区</a>->
+                                 <a href="/items/0ao1x6" target="_blank">飞机观赏区</a>->
+                                 <a href="/items/p0zgtc" target="_blank">海龙区</a>
+                             </p>
+                    </td>
+                    <td style="width:140px;">
+                        计划时间：2014-10-21<br/>
+                        发起时间：2014-9-21
+                    </td>
+                    <td style="width:100px;padding-left:20px;">
+                        预计历时：2天
+                    </td>
+                     <td style="width:80px;">
+                        规模：不限
+                    </td>
+                    <td style="width:100px;">
+                        创建者：刘佳坤
+                    </td>
+                    <td style="width:100px;" >
+                        <a href="#"  class="searchbtn" >申请加入</a>
+                    </td>
+                </tr>
+            </table>
+            
+        </li>
+    </ul>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    $('#change_4 .a_bigImg img').soChange({
+        thumbObj:'#change_4 .ul_change_a1 img',//导航图标
+        botPrev:'#change_4 .a_last',
+        botNext:'#change_4 .a_next'
+    });
+</script>
+{% endblock %}

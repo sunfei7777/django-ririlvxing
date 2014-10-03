@@ -1,0 +1,35 @@
+{% extends "validate.html" %}
+{% load staticfiles %}
+{% block title %}旅行日，就上日日旅行{% endblock%}
+{% block css/js %}
+<link href="{% static 'css/login.css'%}" type="text/css" rel="stylesheet" />
+{% endblock%}
+{% block body_block %}
+    <div class="login-logo">
+        <img src="{% static 'img/login-logo.png'%}">
+    </div>
+    <div class="login-pig">
+        <img src="{% static 'img/loginpig.png'%}">
+    </div>
+    <div class="login-form">
+        <form action="/t/loginvalidate/" method="post" id="form" name="form1">
+            <p>登陆</p>
+            {% if error %}
+                <p style="font-size:11px;color:red;border: 1px solid #CCC;height:15px;">您输入的用户名、密码不匹配，请确认后再输入！</p>
+            {% endif%}
+            <table><tr>
+            <label class="label1"></label><input type="text" id="user_name" name="user_name" placeholder="在此输入用户名"></tr>
+            <tr>
+            <label class="label2"></label><input type="password" placeholder="在此输入密码" id="user_pass" name="user_pass"></tr>
+            <tr>
+            <input type="submit"  id="aOpen" href="#OpenWindow"  value="登陆" rel="leanModal">
+            </tr>
+            <tr>     
+             <td style="width:145px;padding-left:18px"><p id="wangjimima"><a href="#">忘记密码?</a></p>     </td>
+               <td> <p id="register"><a href="/t/register">免费注册</a></p> </td>
+            </tr>
+            </table>
+        </form>
+    </div>
+  
+{% endblock %}

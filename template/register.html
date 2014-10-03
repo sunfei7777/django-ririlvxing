@@ -1,0 +1,159 @@
+{% extends "validate.html" %}
+{% load staticfiles %}
+{% block title %}
+旅行日，就上日日旅行{% endblock%}
+{% block css/js %}
+<script type="text/javascript" src="{% static 'js/register.js'%}"></script>
+<script src="{% static 'js/formValidator-4.0.1.min.js' %}" type="text/javascript" charset="UTF-8"></script>
+<script src="{% static 'js/formValidatorRegex.js'%}" type="text/javascript" charset="UTF-8"></script>
+<script language="javascript" src="{% static 'js/DateTimeMask.js'%}" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="{% static 'My97DatePicker/WdatePicker.js'%}"></script>
+<script language="javascript" src="{% static 'js/inputvalidate.js'%}" type="text/javascript"></script>
+<script type="text/javascript">
+{
+    function link_success(){
+     alert("helllo");
+     window.open('http://www.ririlvxing.com','_blank', 'height=350,width=500,top=0,left=0,toolbar=no,menubar=no,scrollbars=no, resizable=no,location=no, status=no');
+     }
+}
+</script>
+<link href="{% static 'css/inputvalidate.css'%}" type="text/css" rel="stylesheet" />
+<link href="{% static 'css/register.css'%}" type="text/css" rel="stylesheet" />
+{% endblock%}
+{% block body_block %}
+<div class="body">
+<div class="banner">
+    <div class="header">
+        <div class="logo"><img src="{% static 'img/logo1.png'%}" alt="" width="150" height="50" /> 
+        </div>
+        {% load mainTags %} 
+        <div class="menu left">
+         <ul>
+            {% navtagitem /t/index "首页" %} 
+            {% navtagitem /t/destination "目的地" %} 
+            {% navtagitem /t/hotel/ "酒店" %} 
+            {% navtagitem /t/bookticket "订票" %} 
+            {% navtagitem /t/settrip "创建行程" %}  
+        </ul>
+        </div>
+        <div class="search">
+
+        <input  class="input_search" id="input_search" placeholder="搜索行程 " value="" type="text">
+        <a href="###" onclick="$(this).closest('form').submit();" class="search_btn"></a>
+       </div>
+        <div class="user right">
+            <div><p style="color:red">盆友，请<a href="/t/login" style="color:red">登录</a></p>
+                <p><a href="/t/register/">免费注册</a></p></div>
+        </div>
+    </div>
+</div>
+<div class="register-daohang">
+    <div class="logo">
+        <h2 class="tsl" data-phase-id="r_p_registration">
+            账户注册
+        </h2>
+    </div>
+    <div class="steps">
+    <ol>
+        <li class="active">
+            <i>
+                1
+            </i>
+            <span class="tsl" data-phase-id="r_p_createAccount">
+                填写注册信息
+            </span>
+        </li>
+        <li>
+            <i>
+                2
+            </i>
+            <span class="tsl" data-phase-id="r_p_fillUserInfo">
+                注册成功
+            </span>
+        </li>
+    </ol>
+</div>
+
+</div>
+
+
+<div class="register">
+   <form action="/t/regsucc/" method="post" name="form1" id="form">
+
+  <table border="0px" style="font-size:12px" width="730px">
+    <tr> 
+      <td align="right">用户名:</td>
+      <td><input type="text" id="us" name="us" style="width:120px" /></td>
+      <td><div id="usTip" style="width:250px"></div></td>
+    </tr>
+    <tr> 
+      <td align="right">密码:</td>
+      <td><input type="password" id="password1" name="password1" style="width:120px" /></td>
+      <td><div id="password1Tip" style="width:250px"></div></td>
+    </tr>
+    <tr> 
+      <td align="right">重复密码:</td>
+      <td><input type="password" id="password2" name="password2" style="width:120px" /></td>
+      <td><div id="password2Tip" style="width:250px"></div></td>
+    </tr>
+    <tr> 
+      <td align="right">你的性别:</td>
+      <td><input type="radio" id="sex" value="1" name="xb_one" />
+        男&nbsp;&nbsp;&nbsp;&nbsp; <input type="radio" id="sex1" value="2" name="xb_one" />
+        女</td>
+      <td><div id="sexTip" style="width:250px"></div></td>
+    </tr>
+    <tr> 
+      <td align="right">你的年龄:</td>
+      <td><input type="text" id="nl" name="nl" style="width:120px"   class="fv_input_text_default" /></td>
+      <td><div id="nlTip" style="width:250px"></div></td>
+    </tr>
+    <tr> 
+      <td align="right">出生日期:</td>
+      <td><input type="text" id="csny" name="csny" style="width:120px" onClick="WdatePicker()"  /></td>
+      <td><div id="csnyTip" style="width:300px"></div></td>
+    </tr>
+    <tr>
+      <td align="right">身份证号</td>
+      <td><input name="sfzh" type="text" id="sfzh" style="width:150px" value="" /></td>
+      <td><div id="sfzhTip" style="width:250px"></div></td>
+    </tr>
+    <tr> 
+      <td align="right">电子邮箱:</td>
+      <td><input type="text" id="email" name="email" style="width:120px" /></td>
+      <td><div id="emailTip" style="width:250px"></div></td>
+    </tr>
+    <tr> 
+      <td align="right">你爱国吗:</td>
+      <td colspan="2"> <input type="radio" name="aiguo" value="1" id="bb1"  />
+        不爱 
+        <input type="radio" name="aiguo" id="bb2" value="2" />
+        不发表意见 
+        <input type="radio" name="aiguo" id="nn3" value="3" />
+        爱 
+        <input type="radio" name="aiguo" id="nn4" value="4" />
+        爱死它了 </td>
+    </tr>
+    <tr> 
+      <td colspan="3"><div id="aiguoTip" style="width:250px"></div></td>
+    </tr>
+    <tr> 
+      <td align="right">手机号码:</td>
+      <td><input type="text" id="shouji" name="shouji" style="width:120px" /></td>
+      <td><div id="shoujiTip" style="width:250px"></div></td>
+    </tr>
+    <tr> 
+      <td align="right"><input type="checkbox" name="check" ></td>
+      <td>我已阅读并同意遵守《<a href="javascript:;">服务条款</a>》</td>
+      <td><div id="shoujiTip" style="width:250px"></div></td>
+    </tr>
+    <tr> 
+      <td align="right"></td>
+      <td><input type="submit" id="aOpen" href="#OpenWindow"  rel="leanModal" value="注册" style="width:120px" /></td>
+      <td><div id="tijiao" style="width:250px"></div></td>
+    </tr>
+  </table>
+  
+</form>
+</div>
+{% endblock %}

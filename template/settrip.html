@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block title %}
+旅行日，就上日日旅行{% endblock%}
+
+{% block css/js %}
+<script type="text/javascript" src="{% static 'js/jquery-1.3.2.min.js'%}"></script>
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=t7FoSCKMKQaiH3Ccc2B4G2gw"></script>
+<script type="text/javascript" src="http://api.map.baidu.com/library/TextIconOverlay/1.2/src/TextIconOverlay_min.js"></script>
+<script type="text/javascript" src="http://api.map.baidu.com/library/MarkerClusterer/1.2/src/MarkerClusterer_min.js"></script>
+
+<link href="{% static 'css/settrip.css'%}" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="{% static 'js/baidumap.js'%}"></script>
+<script type="text/javascript" src="{% static 'js/settrip.js'%}"></script>
+<script type="text/javascript">
+window.onload=function(){
+      f(1);
+     }
+</script>
+{% endblock%}
+
+{% block body_block %}
+
+
+<br class="clear"/>
+<!-- 行程目录 -->
+<div class="left-list">
+    <div class="search">
+    <input id="search-place" placeholder="输入你感兴趣的城市或景点"  type="text"><button id="search-btn" class="i-image" onclick="search()"></button></div><br/>
+    <ul class="sidebar left">
+        <li id ="1" class="pass"><div class="item"><a href="#">第1天 (0)</a></div><div class="num">1</div><div class="arrow"></div></li>
+        <li id ="2" class="pass"><div class="item"><a href="#">第2天 (0)</a></div><div class="num">2</div><div class="arrow"></div></li>
+        <li id ="3" class="pass"><div class="item"><a href="#">第3天 (0)</a></div><div class="num">3</div><div class="arrow"></div></li>
+        <li id ="4" class="hover"><div class="item"><a href="#">第4天 (0)</a></div><div class="num">4</div><div class="arrow"></div></li>
+        <li id ="5"><div class="item"><a href="#">第5天 (0)</a></div><div class="num">5</div><div class="arrow"></div></li>
+    </ul>
+    <img src="{% static 'img/minus.png'%}" class="minus" ><img src="{% static 'img/plus.png'%}" class="add" >
+</div>
+<!-- 百度地图 -->
+<div id="allmap" ></div>
+<!-- 路线搜索 -->
+<div class="right-list">
+    <div id="tab">
+        <a href="#" id="tab1" class="hov">景点</a>
+        <a href="#" id="tab2">酒店</a>
+        <a href="#" id="tab3">交通</a>
+    </div>
+    <div id="div-1">
+        <div class="div-jingdian">
+        <img src="{% static 'img/sanya.jpg'%}">
+        <h2 class="h2">三亚，（Sanya City）位于海南岛的最南端，是中国最南部的热带滨海旅游城市，全国空气质量最好的城市，全国最长寿地区（平均寿命80岁）。 三亚市别称鹿城，又被称为“东方夏威夷”，位居中国四大一线旅游城市“三威杭厦”之首，它拥有全海南岛最美丽的海滨风光。东邻陵水县，西接乐东县，北毗保亭县，南临南海。陆地总面积1919.58平方公里，海域总面积6000平方公里，其中规划市区面积约37平方公里。</h2>
+        </div>
+         <div class="div-jingdian">
+        <img src="{% static 'img/sanya.jpg'%}">
+        <h2 class="h2">三亚，（Sanya City）位于海南岛的最南端，是中国最南部的热带滨海旅游城市，全国空气质量最好的城市，全国最长寿地区（平均寿命80岁）。 三亚市别称鹿城，又被称为“东方夏威夷”，位居中国四大一线旅游城市“三威杭厦”之首，它拥有全海南岛最美丽的海滨风光。东邻陵水县，西接乐东县，北毗保亭县，南临南海。陆地总面积1919.58平方公里，海域总面积6000平方公里，其中规划市区面积约37平方公里。</h2>
+        </div><div class="div-jingdian">
+        <img src="{% static 'img/sanya.jpg'%}">
+        <h2 class="h2">三亚，（Sanya City）位于海南岛的最南端，是中国最南部的热带滨海旅游城市，全国空气质量最好的城市，全国最长寿地区（平均寿命80岁）。 三亚市别称鹿城，又被称为“东方夏威夷”，位居中国四大一线旅游城市“三威杭厦”之首，它拥有全海南岛最美丽的海滨风光。东邻陵水县，西接乐东县，北毗保亭县，南临南海。陆地总面积1919.58平方公里，海域总面积6000平方公里，其中规划市区面积约37平方公里。</h2>
+        </div><div class="div-jingdian">
+        <img src="{% static 'img/sanya.jpg'%}">
+        <h2 class="h2">三亚，（Sanya City）位于海南岛的最南端，是中国最南部的热带滨海旅游城市，全国空气质量最好的城市，全国最长寿地区（平均寿命80岁）。 三亚市别称鹿城，又被称为“东方夏威夷”，位居中国四大一线旅游城市“三威杭厦”之首，它拥有全海南岛最美丽的海滨风光。东邻陵水县，西接乐东县，北毗保亭县，南临南海。陆地总面积1919.58平方公里，海域总面积6000平方公里，其中规划市区面积约37平方公里。</h2>
+        </div><div class="div-jingdian">
+        <img src="{% static 'img/sanya.jpg'%}">
+        <h2 class="h2">三亚，（Sanya City）位于海南岛的最南端，是中国最南部的热带滨海旅游城市，全国空气质量最好的城市，全国最长寿地区（平均寿命80岁）。 三亚市别称鹿城，又被称为“东方夏威夷”，位居中国四大一线旅游城市“三威杭厦”之首，它拥有全海南岛最美丽的海滨风光。东邻陵水县，西接乐东县，北毗保亭县，南临南海。陆地总面积1919.58平方公里，海域总面积6000平方公里，其中规划市区面积约37平方公里。</h2>
+        </div>
+    </div>
+    <div id="div-2" style="display:none">
+       <div class="div-jingdian">
+        <img src="{% static 'img/sanya.jpg'%}">
+        <h2 class="h2">三亚，（Sanya City）位于海南岛的最南端，是中国最南部的热带滨海旅游城市，全国空气质量最好的城市，全国最长寿地区（平均寿命80岁）。 三亚市别称鹿城，又被称为“东方夏威夷”，位居中国四大一线旅游城市“三威杭厦”之首，它拥有全海南岛最美丽的海滨风光。东邻陵水县，西接乐东县，北毗保亭县，南临南海。陆地总面积1919.58平方公里，海域总面积6000平方公里，其中规划市区面积约37平方公里。</h2>
+        </div><div class="div-jingdian">
+        <img src="{% static 'img/sanya.jpg'%}">
+        <h2 class="h2">三亚，（Sanya City）位于海南岛的最南端，是中国最南部的热带滨海旅游城市，全国空气质量最好的城市，全国最长寿地区（平均寿命80岁）。 三亚市别称鹿城，又被称为“东方夏威夷”，位居中国四大一线旅游城市“三威杭厦”之首，它拥有全海南岛最美丽的海滨风光。东邻陵水县，西接乐东县，北毗保亭县，南临南海。陆地总面积1919.58平方公里，海域总面积6000平方公里，其中规划市区面积约37平方公里。</h2>
+        </div><div class="div-jingdian">
+        <img src="{% static 'img/sanya.jpg'%}">
+        <h2 class="h2">三亚，（Sanya City）位于海南岛的最南端，是中国最南部的热带滨海旅游城市，全国空气质量最好的城市，全国最长寿地区（平均寿命80岁）。 三亚市别称鹿城，又被称为“东方夏威夷”，位居中国四大一线旅游城市“三威杭厦”之首，它拥有全海南岛最美丽的海滨风光。东邻陵水县，西接乐东县，北毗保亭县，南临南海。陆地总面积1919.58平方公里，海域总面积6000平方公里，其中规划市区面积约37平方公里。</h2>
+        </div><div class="div-jingdian">
+        <img src="{% static 'img/sanya.jpg'%}">
+        <h2 class="h2">三亚，（Sanya City）位于海南岛的最南端，是中国最南部的热带滨海旅游城市，全国空气质量最好的城市，全国最长寿地区（平均寿命80岁）。 三亚市别称鹿城，又被称为“东方夏威夷”，位居中国四大一线旅游城市“三威杭厦”之首，它拥有全海南岛最美丽的海滨风光。东邻陵水县，西接乐东县，北毗保亭县，南临南海。陆地总面积1919.58平方公里，海域总面积6000平方公里，其中规划市区面积约37平方公里。</h2>
+        </div><div class="div-jingdian">
+        <img src="{% static 'img/sanya.jpg'%}">
+        <h2 class="h2">三亚，（Sanya City）位于海南岛的最南端，是中国最南部的热带滨海旅游城市，全国空气质量最好的城市，全国最长寿地区（平均寿命80岁）。 三亚市别称鹿城，又被称为“东方夏威夷”，位居中国四大一线旅游城市“三威杭厦”之首，它拥有全海南岛最美丽的海滨风光。东邻陵水县，西接乐东县，北毗保亭县，南临南海。陆地总面积1919.58平方公里，海域总面积6000平方公里，其中规划市区面积约37平方公里。</h2>
+        </div>
+    </div>
+    <div id="div-3" style="display:none">
+        <div class="search"><input type = "text" placeholder="出发地"><img id= "mid-search" class=".return_icon"><input type = "text" placeholder="目的地"></div>
+    </div>
+</div>
+<br class="clear"/>
+
+{% endblock %}

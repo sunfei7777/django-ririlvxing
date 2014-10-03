@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+/** register style **/
+/** author sunpengfei **/
+
+.eachBox{overflow:hidden;clear:both;padding:15px 0;height: 300px; }
+.changebox{overflow:hidden;clear:both;padding:0px 0; }
+/* changeBox_b1 */
+
+.changeBox_b1{float:left;position:relative;width:1000px; padding-left:1px; }
+.changeBox_b1 h3{float:left;position:relative;width:199px;height:37px;line-height:25px;  border:1px solid #ccc;text-align:center;margin-left:-1px;}
+
+.changeBox_b1 h3.now{display: block;background: url('../img/itabbg1.png') repeat-x scroll 0% 0% transparent;font-weight: bold;}
+
+.changeBox_b1 h3 a{color:#666;font-size: 16px;font-family:'微软雅黑';}
+.changeBox_b1 h3:hover{color:#B70000;background: url('../img/itabbg1.png') repeat-x scroll 0% 0% transparent;}
+
+
+
+/* changeBox_a1 */
+.changeBox_a1{float:left;width:650px;height:250px; padding:2px;position:relative;height: 300px;}
+
+.changeBox_a1 .a_bigImg img{position:absolute;top:2px;left:2px;display:none;height: 300px;}
+
+
+.changeDiv{position:absolute;top:2px;left:2px;display:none;}
+
+.changeDiv h3{position:absolute;left:0px;bottom:0;width:650px;height:30px;line-height:30px;background:#fff;filter:alpha(opacity=70);opacity:0.7;}
+
+.changeDiv h3 a{display:block;padding-left:15px; color:#FF6600;}
+
+
+/* ul_change_a1 */
+.ul_change_a1{position:absolute;right:1px; bottom:6px;padding-left:19px;overflow:hidden;}
+
+.ul_change_a1 li{float:left;margin-right:7px; }
+.ul_change_a1 img{ border:1px solid #ddd;}
+.ul_change_a1 img.now{border:1px solid #FF6600;}
+.a_last,.a_next{position:absolute;top:10px;width:16px;height:16px;text-indent:-999em;overflow:hidden;}
+
+.a_last{right:30px;background-position:0 0;}
+.a_next{right:12px;background-position:100% 0;}
+
+.right_gg{margin-left: 15px;float: left;background-color: #A9A9A9;margin-top: 3px;height: 300px;}
+.right_gg h1{font-size: 25px;margin-top: 10px;text-align: center;}
+.right_gg p{font-size: 14px;text-align: center;color: green;margin-top: 20px;}
+.right_gg a{display: block;margin-top: 58px;text-align: center;padding: 12px 0px;background-color: #FC3;box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);font-size: 30px;color: #222;}
+.xc_list {margin-right: auto;margin-left: auto;}
+.xc_list p{font-size: 16px;float: left;}
+/*.xc_list .changebox .xc_table {position:absolute;top:37px;left:1px;_left:1px;width:1000px; padding:15px; }*/
+.xc_list .changebox .xc_table{float: left;margin-top:0px;margin-left: 0px;text-align: left;}
+.xc_list .changebox .xc_table .title{font-size: 16px;color:#fc3; }
+.xc_list .changebox .xc_table ul{padding: 10px 0px 0px;}
+.xc_list .changebox .xc_table li{border-bottom: 1px dashed #DDD;float: left;width: 1000px;height: 100px;margin: 10px 8px 0px 0px;display: inline;}
+.xc_list .changebox .xc_table .searchbtn{border: 1px solid ;border-radius: 5px;}
+.xc_list .changebox .form form,form label{font-size: 15px;}
+.xc_list .changebox .xc_table .title{color: #FB5E00;font-size: 18px;margin-bottom: 5px;display: inline-block;height: 27px;line-height: 27px; }
+.xc_list .changebox .xc_table a:hover{color: #FB5E00;}
+.xc_list .changebox .xc_table .page-num{float: right;padding-right: 120px;padding-bottom: 10px;}
+.xc_list .changebox .xc_table .page-num a{border: 1px solid ;border-radius: 1px;margin-left: 5px;}

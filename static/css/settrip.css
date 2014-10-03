@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+/** register style **/
+/** author sunpengfei **/
+.body{width: 100%;overflow-x:hidden;display: block; }
+
+.left-list{float: left;font-size: 16px;padding: 0px 30px 0px 0px;width: 240px;}
+.left-list p,a{font-size: 16px;}
+.left-list a{text-align:center;width: 164px;height: 30px;display: block;}
+#allmap{float:left;width: 800px; height: 380px}
+.left-list .search{border: 1px solid #C2C2BD;width: 260px;border-radius: 5px;height: 38px;margin: 0px 0px 10px 0px;}
+#search-place{width: 200px;border: 1px solid #FFF;position: absolute;margin-left: 1px;padding: 10px 1px 8px 0px;text-indent: 5px;height: 18px;float: left;}
+.i-image{float: right;width:58px;height:36px;background:url(../img/u2.png) 0 -60px no-repeat;overflow:hidden;vertical-align:top;}
+/*去百度地图标识*/
+.anchorBL{display:none} 
+.jingdianp{float: left;font-size: 12px !important;padding-left: 5px;width: 180px;}
+
+.clear {clear: both;}
+
+
+.body .sidebar{ width:234px; background:url(../img/check_bg.png) center center repeat-y;}
+.body .sidebar li{ margin-bottom:18px; overflow:hidden; cursor:pointer; color:#888;}
+.body .sidebar li div{ display:inline-block;}
+.body .sidebar li .item{ background:url(../img/check_item.png) left center no-repeat; width:164px; height:30px; line-height:30px; padding-left:10px; float:left;}
+.body .sidebar li .item a{ color:#888;}
+.body .sidebar li .num{ background:url(../img/check_ico.png) left center no-repeat; width:30px; height:30px; float:left; margin-left:3px; font-size:14px; line-height:30px; text-align:center;}
+.body .sidebar li .arrow{ background:url(../img/ok.png) left center no-repeat; width:12px; height:10px; float:left; margin-top:10px; margin-left:15px;}
+.body .sidebar .hover a,.body .sidebar li:hover a{ color:#fff!important;}
+.body .sidebar .pass .item{ background:url(../img/check_item_pass.png) left center no-repeat; color:#fff;}
+.body .sidebar .pass .item a{ color:#fff;}
+.body .sidebar .pass .num{ background:url(../img/check_ico_pass.png) left center no-repeat; color:#fff;}
+.body .sidebar .pass .arrow{ background:url(../img/ok_pass.png) left center no-repeat;}
+.body .sidebar .hover .item,.body .sidebar li:hover .item{ background:url(../img/check_item_current.png) left center no-repeat;}
+.body .sidebar .hover .num,.body .sidebar li:hover .num{ background:url(../img/check_ico_current.png) left center no-repeat; color:#8ac453;}
+.body .sidebar .hover .arrow,.body .sidebar li:hover .arrow{ background:url(../img/arrow.png) left center no-repeat;}
+.body .minus ,.add{float: left;margin: 00px 10px 10px 35px;}
+.body .sidebar .pass .jingdiandiv{float: left;width: 200px;height: 20px;}
+.body .sidebar .pass img{float: left;width: 15px;height: 20px;}
+
+/*右面版*/
+.right-list a{width:33px;height:28px;padding-top:5px;border: 1px solid #80B66A;background: #EFF6EC;display: block;float: left;border-style: solid;padding-right:24px;padding-left:24px;}
+.right-list a:hover{color:black;width:33px;height:28px;padding-top:5px;border: 1px solid #80B66A;background: #80B66A;display: block;float: left;border-style: solid;padding-right:24px;padding-left:24px;}
+.right-list .hov{color:black;width:33px;height:28px;padding-top:5px;border: 1px solid #80B66A;background: #80B66A;display: block;float: left;border-style: solid;padding-right:24px;padding-left:24px;}
+.right-list  img{float:left;width: 100px;height: 70px;display: block;}
+.right-list  h2{float:left;display: block;}
+.right-list  h2{width: 150px;height: 70px;overflow: hidden;}
+.right-list #div-3 .search{float:left;border: 1px solid #C2C2BD;width: 230px;border-radius: 5px;height: 30px;}
+.right-list #div-3 .search input{float:left;width: 100px;border: 1px solid #FFF;padding: 9px 1px 8px 0px;text-indent: 5px;height: 11px;}
+#mid-search {float: left;cursor: pointer;width: 21px;height: 22px;background: url('http://webmap1.map.bdimg.com/newmap/static/common/images/index_f7f0192.png') no-repeat scroll -200px -126px transparent;margin: 5px 0px 0px 0px;display: inline-block;}

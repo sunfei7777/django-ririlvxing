@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block title %}旅行日，就上日日旅行{% endblock%}
+{% block css/js %}
+<link href="{% static 'css/destination.css'%}" type="text/css" rel="stylesheet" />
+{% endblock%}
+{% block body_block %}
+
+
+
+<div class="destination">
+    <p>热门目的地：</p>
+    <div class="destination-list">
+        <ul>
+            <li>
+                <a  href="http://www.baidu.com">
+                    <div class="item">
+                        <img width="160" height="100" src="{% static 'img/tiananmen.jpg'%}"></img>
+                        <span>北京市</span>
+                    </div>
+                </a>
+            </li> 
+           <li>
+                <a  href="http://www.baidu.com">
+                    <div class="item">
+                        <img width="160" height="100" src="{% static 'img/sanya.jpg'%}"></img>
+                        <span>三亚市</span>
+                    </div>
+                </a>
+            </li> 
+           <li>
+                <a  href="http://www.baidu.com">
+                    <div class="item">
+                        <img width="160" height="100" src="{% static 'img/qilianshan.jpg'%}"></img>
+                        <span>祁连山</span>
+                    </div>
+                </a>
+            </li> 
+           <li>
+                <a  href="http://www.baidu.com">
+                    <div class="item">
+                        <img width="160" height="100" src="{% static 'img/xianggang.jpg'%}"></img>
+                        <span>香港市</span>
+                    </div>
+                </a>
+            </li> 
+           <li>
+                <a  href="http://www.baidu.com">
+                    <div class="item">
+                        <img width="160" height="100" src="{% static 'img/tiantan.jpg'%}"></img>
+                        <span>天坛</span>
+                    </div>
+                </a>
+            </li>            
+        </ul>
+
+    </div>
+    
+</div>
+<br class="clear"/>
+{% endblock%}

@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+/** register style **/
+/** author sunpengfei **/
+.body .register {margin-top: 30px;margin-left: auto;margin-right: auto;}
+.body .register-daohang .logo{display: inline-block;}
+/*.body .register-daohang .logo h1 {display: inline-block;width: 200px;height: 60px;overflow: hidden;vertical-align: middle;}
+.body .register-daohang .logo h1 a {text-decoration: none;display: block;}*/
+.body .register-daohang .logo h2{display:inline-block;zoom:1;*display:inline;height:43px;line-height:43px;margin-left:6px;font-size:22px;font-family:"微软雅黑","华文细黑","黑体",arial;font-weight:normal;vertical-align:middle;}
+.body .register-daohang .steps{height: 46px;border-bottom: 2px solid #E6E6E6;position: relative;}
+.body .register-daohang .steps ol {width: 720px;margin: 0px auto;}
+.body .register-daohang .steps ol li{display:inline;float:left;width:250px;padding-left:100px;height:46px;line-height:46px;font-size:18px;font-weight:bold;color:#999;font-family:"微软雅黑","华文细黑","黑体",arial;}
+.body .register-daohang .steps li {list-style: none outside none;}
+.body .register-daohang .steps ol li.active{color:#3e3e3e;border-bottom:2px solid #ff4700;}
+.body .register-daohang .steps ol li i{display:inline-block;zoom:1;*display:inline;margin-right:5px;width:24px;height:24px;text-align:center;font-style:normal;line-height:24px;font-size:14px;font-weight:bold;color:#FFF;background:url(../img/steps-circle.png) no-repeat 0 0;}
+.body .register-daohang .steps ol li.active i{background-image:url(../img/steps.png);}
+.body .register-daohang .steps ol li span{font-size: 18px;}
+
+body .register form tr{min-height: 40px;width: 100%;height: 35px;}
+body .register form table{margin-left: 300px;font-size: 15px !important;}
+body .register form table #aOpen{color: #FFF;text-decoration: none;background-color: #F73500;min-width: 180px;display: inline-block;
+height: 36px;
+line-height: 36px;
+padding: 0px 20px;
+color: #FFF;
+font-weight: bold;
+font-size: 16px;
+text-align: center;
+background: none repeat scroll 0% 0% #FF4001;
+border: medium none;
+border-radius: 3px;
+cursor: pointer;}
+/*.body .register .form p{min-height: 35px;width: 100%;}
+.body .register .form span{color:red; padding-left: 16px;}
+.body .register .form .wrongtip{color: #FF7F00;margin-left: 10px;}
+.body .register .form label{width: 375px;text-align: right;padding-right: 5px;display: inline-block;display: inline-block;font-size: 16px;}
+.body .register .form .agreement{display: inline-block;font-size: 14px;line-height: 35px;color: #333;margin-left: 380px;font-size: 15px;}
+.body .register .form .agreement a{font-size: 15px;}
+.body .register .form .agreement .btn{padding: 5px 10px;cursor: pointer;background-color: #F79209;border: 1px solid #F79209;border-radius: 5px;color: #FFF;}
+*/
+
+/*register success css*/
+.body .register-success{}
+.body .register-success h2{font-size: 20px;display:inline-block;float: left;}
+.body .register-success img{display:inline-block;height: 40px;width: 50px;float: left;}
+.body .register-success .clearboth{clear: both;}
+.body .register-success .nextstep{margin-top: 10px;width: 1000px;}
+.body .register-success p{font-size: 15px;padding-left: 40px;margin-top: 60px;}
+.body .register-success .v-email{text-align: center;height: 40px;padding-top: 40px;}
+.body .register-success .v-email a{color: #FFF;text-decoration: none;background-color: #F73500;min-width: 180px;display: inline-block;
+height: 36px;
+line-height: 36px;
+padding: 0px 20px;
+color: #FFF;
+font-weight: bold;
+font-size: 16px;
+text-align: center;
+background: none repeat scroll 0% 0% #FF4001;
+border: medium none;
+border-radius: 3px;
+cursor: pointer;}}
+.body .register-success .n-email .n-list{padding-left: 40px;}
+.body .register-success .n-email .n-list ul li{margin-top: 5px;}

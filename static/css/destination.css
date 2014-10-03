@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* base yui reset.css, repair by haven long 090925*/
+/* author sunpengfei*/
+.destination p{font-size: 18px;margin-top: 10px;font-family: "微软雅黑",Arial,Helvetica,sans-serif;}
+.destination .destination-list{width: 1000px;position: relative;}
+.destination .destination-list ul li{width: 150px;margin: 15px 50px 0px 0px;float: left;}
+.destination .destination-list a span{display: block;text-align: center;font-size: 16px;margin-top: 5px;color: #333;}
+.destination .destination-list a .item span{display: block;text-align: center;font-size: 16px;margin-top: 5px;color: #333;}
+.destination .destination-list a .item span:hover{color: red;}
+.clear{
+	clear: both;
+}
