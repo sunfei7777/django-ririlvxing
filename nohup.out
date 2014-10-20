@@ -90,3 +90,2238 @@
 [07/Oct/2014 11:00:30] "GET /static/img/itabbg1.png HTTP/1.1" 304 0
 [07/Oct/2014 11:00:30] "GET /static/img/logo1.png HTTP/1.1" 304 0
 [07/Oct/2014 11:00:30] "GET /static/img/search.png HTTP/1.1" 304 0
+[07/Oct/2014 11:50:00] "GET / HTTP/1.1" 200 13354
+[07/Oct/2014 11:50:00] "GET /static/css/public.css HTTP/1.1" 200 2316
+[07/Oct/2014 11:50:00] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 200 10181
+[07/Oct/2014 11:50:00] "GET /static/css/style.css HTTP/1.1" 200 3229
+[07/Oct/2014 11:50:00] "GET /static/js/jquery.soChange.js HTTP/1.1" 200 3316
+[07/Oct/2014 11:50:00] "GET /static/js/sun-tab.js HTTP/1.1" 200 850
+[07/Oct/2014 11:50:00] "GET /static/img/icn.png HTTP/1.1" 200 32419
+[07/Oct/2014 11:50:01] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 200 57254
+[07/Oct/2014 11:50:01] "GET /static/img/1_s.jpg HTTP/1.1" 200 2055
+[07/Oct/2014 11:50:01] "GET /static/img/2_s.jpg HTTP/1.1" 200 2130
+[07/Oct/2014 11:50:01] "GET /static/My97DatePicker/skin/WdatePicker.css HTTP/1.1" 200 182
+[07/Oct/2014 11:50:02] "GET /static/img/2.jpg HTTP/1.1" 200 64918
+[07/Oct/2014 11:50:02] "GET /static/img/4_s.jpg HTTP/1.1" 200 2294
+[07/Oct/2014 11:50:02] "GET /static/img/3_s.jpg HTTP/1.1" 200 1810
+[07/Oct/2014 11:50:02] "GET /static/img/1.jpg HTTP/1.1" 200 59326
+[07/Oct/2014 11:50:02] "GET /static/img/3.jpg HTTP/1.1" 200 53055
+[07/Oct/2014 11:50:02] "GET /static/img/qilianshan.jpg HTTP/1.1" 200 8269
+[07/Oct/2014 11:50:02] "GET /static/img/zan.png HTTP/1.1" 200 591
+[07/Oct/2014 11:50:03] "GET /static/img/zhuluoji.jpg HTTP/1.1" 200 22440
+[07/Oct/2014 11:50:03] "GET /static/img/logo1.png HTTP/1.1" 200 15319
+[07/Oct/2014 11:50:03] "GET /static/img/4.jpg HTTP/1.1" 200 82675
+[07/Oct/2014 11:50:03] "GET /static/img/itabbg1.png HTTP/1.1" 200 2828
+[07/Oct/2014 11:50:03] "GET /static/img/search.png HTTP/1.1" 200 3193
+[07/Oct/2014 11:50:03] "GET /static/img/background.png HTTP/1.1" 200 18991
+[07/Oct/2014 12:06:33] "GET / HTTP/1.1" 200 13354
+[07/Oct/2014 12:13:59] "GET /static/js/sun-tab.js HTTP/1.1" 200 850
+[07/Oct/2014 12:13:59] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 200 10181
+[07/Oct/2014 12:13:59] "GET /static/js/jquery.soChange.js HTTP/1.1" 200 3316
+[07/Oct/2014 12:14:00] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 200 57254
+Error: That port is already in use.
+Error: That port is already in use.
+[15/Oct/2014 16:29:03] "GET / HTTP/1.1" 200 13483
+[15/Oct/2014 16:29:04] "GET /static/css/public.css HTTP/1.1" 304 0
+[15/Oct/2014 16:29:04] "GET /static/js/sun-tab.js HTTP/1.1" 304 0
+[15/Oct/2014 16:29:04] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 304 0
+[15/Oct/2014 16:29:04] "GET /static/css/style.css HTTP/1.1" 304 0
+[15/Oct/2014 16:29:04] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 304 0
+[15/Oct/2014 16:29:04] "GET /static/js/jquery.soChange.js HTTP/1.1" 304 0
+[15/Oct/2014 16:29:04] "GET /static/My97DatePicker/skin/WdatePicker.css HTTP/1.1" 304 0
+[15/Oct/2014 16:29:04] "GET /static/img/1.jpg HTTP/1.1" 304 0
+[15/Oct/2014 16:29:04] "GET /static/img/2.jpg HTTP/1.1" 304 0
+[15/Oct/2014 16:29:04] "GET /static/img/3.jpg HTTP/1.1" 304 0
+[15/Oct/2014 16:29:04] "GET /static/img/1_s.jpg HTTP/1.1" 304 0
+[15/Oct/2014 16:29:04] "GET /static/img/4.jpg HTTP/1.1" 304 0
+[15/Oct/2014 16:29:05] "GET /static/img/zhuluoji.jpg HTTP/1.1" 304 0
+[15/Oct/2014 16:29:05] "GET /static/img/background.png HTTP/1.1" 304 0
+[15/Oct/2014 16:29:05] "GET /static/img/itabbg1.png HTTP/1.1" 304 0
+[15/Oct/2014 16:29:05] "GET /static/img/logo1.png HTTP/1.1" 304 0
+[15/Oct/2014 16:29:05] "GET /static/img/2_s.jpg HTTP/1.1" 304 0
+[15/Oct/2014 16:29:05] "GET /static/img/user.png HTTP/1.1" 200 25926
+[15/Oct/2014 16:29:06] "GET /static/img/search.png HTTP/1.1" 304 0
+[15/Oct/2014 16:29:06] "GET /static/img/3_s.jpg HTTP/1.1" 304 0
+[15/Oct/2014 16:29:06] "GET /static/img/4_s.jpg HTTP/1.1" 304 0
+[15/Oct/2014 16:29:06] "GET /static/img/qilianshan.jpg HTTP/1.1" 304 0
+[15/Oct/2014 16:29:06] "GET /static/img/zan.png HTTP/1.1" 304 0
+[15/Oct/2014 16:29:07] "GET /static/img/icn.png HTTP/1.1" 304 0
+[15/Oct/2014 16:29:15] "GET / HTTP/1.1" 200 13483
+[15/Oct/2014 16:39:36] "GET /static/My97DatePicker/lang/zh-cn.js HTTP/1.1" 200 1076
+[15/Oct/2014 16:39:36] "GET /static/My97DatePicker/skin/default/datepicker.css HTTP/1.1" 200 3481
+[15/Oct/2014 16:39:36] "GET /static/My97DatePicker/calendar.js HTTP/1.1" 200 22540
+[15/Oct/2014 16:39:39] "GET /static/My97DatePicker/skin/default/img.gif HTTP/1.1" 200 1578
+[15/Oct/2014 16:59:55] "CONNECT mx3.mail2000.com.tw:25 HTTP/1.0" 404 1659
+[15/Oct/2014 17:25:01] "GET / HTTP/1.1" 200 13483
+[15/Oct/2014 17:25:02] "GET /static/css/style.css HTTP/1.1" 304 0
+[15/Oct/2014 17:25:02] "GET /static/css/public.css HTTP/1.1" 304 0
+[15/Oct/2014 17:25:02] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 304 0
+[15/Oct/2014 17:25:02] "GET /static/js/sun-tab.js HTTP/1.1" 304 0
+[15/Oct/2014 17:25:02] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 304 0
+[15/Oct/2014 17:25:02] "GET /static/js/jquery.soChange.js HTTP/1.1" 304 0
+[15/Oct/2014 17:25:03] "GET /static/My97DatePicker/skin/WdatePicker.css HTTP/1.1" 304 0
+[15/Oct/2014 17:25:03] "GET /static/img/1.jpg HTTP/1.1" 304 0
+[15/Oct/2014 17:25:04] "GET /static/img/3.jpg HTTP/1.1" 304 0
+[15/Oct/2014 17:25:04] "GET /static/img/2.jpg HTTP/1.1" 304 0
+[15/Oct/2014 17:25:04] "GET /static/img/4.jpg HTTP/1.1" 304 0
+[15/Oct/2014 17:25:04] "GET /static/img/1_s.jpg HTTP/1.1" 304 0
+[15/Oct/2014 17:25:04] "GET /static/img/2_s.jpg HTTP/1.1" 304 0
+[15/Oct/2014 17:25:04] "GET /static/img/3_s.jpg HTTP/1.1" 304 0
+[15/Oct/2014 17:25:05] "GET /static/img/background.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:05] "GET /static/img/user.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:05] "GET /static/img/logo1.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:05] "GET /static/img/itabbg1.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:05] "GET /static/img/search.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:05] "GET /static/img/4_s.jpg HTTP/1.1" 304 0
+[15/Oct/2014 17:25:07] "GET /static/img/qilianshan.jpg HTTP/1.1" 304 0
+[15/Oct/2014 17:25:07] "GET /static/img/zan.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:07] "GET /static/img/zhuluoji.jpg HTTP/1.1" 304 0
+[15/Oct/2014 17:25:08] "GET /t/settrip HTTP/1.1" 301 0
+[15/Oct/2014 17:25:08] "GET /t/settrip/ HTTP/1.1" 200 12346
+[15/Oct/2014 17:25:10] "GET /static/css/settrip.css HTTP/1.1" 304 0
+[15/Oct/2014 17:25:10] "GET /static/js/settrip.js HTTP/1.1" 304 0
+[15/Oct/2014 17:25:10] "GET /static/js/baidumap.js HTTP/1.1" 304 0
+[15/Oct/2014 17:25:10] "GET /static/img/minus.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:10] "GET /static/img/plus.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:11] "GET /static/img/sanya.jpg HTTP/1.1" 304 0
+[15/Oct/2014 17:25:18] "GET /static/img/u2.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:18] "GET /static/img/check_bg.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:18] "GET /static/img/check_item_pass.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:18] "GET /static/img/check_item_current.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:18] "GET /static/img/ok_pass.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:18] "GET /static/img/check_ico_pass.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:19] "GET /static/img/check_ico_current.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:19] "GET /static/img/check_ico.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:19] "GET /static/img/arrow.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:19] "GET /static/img/check_item.png HTTP/1.1" 304 0
+[15/Oct/2014 17:25:19] "GET /static/img/ok.png HTTP/1.1" 304 0
+[15/Oct/2014 17:43:25] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[15/Oct/2014 18:36:45] "GET / HTTP/1.1" 200 13354
+[15/Oct/2014 19:19:16] "GET / HTTP/1.1" 200 13354
+[15/Oct/2014 19:19:59] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 200 57254
+[15/Oct/2014 19:20:00] "GET /static/js/sun-tab.js HTTP/1.1" 200 850
+[15/Oct/2014 19:20:00] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 200 10181
+[15/Oct/2014 19:20:00] "GET /static/js/jquery.soChange.js HTTP/1.1" 200 3316
+[15/Oct/2014 19:20:53] "GET / HTTP/1.1" 200 13354
+[15/Oct/2014 19:20:53] "GET /static/css/style.css HTTP/1.1" 200 3229
+[15/Oct/2014 19:20:53] "GET /static/css/public.css HTTP/1.1" 200 2316
+[15/Oct/2014 19:20:53] "GET /static/js/sun-tab.js HTTP/1.1" 200 850
+[15/Oct/2014 19:20:53] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 200 10181
+[15/Oct/2014 19:20:53] "GET /static/js/jquery.soChange.js HTTP/1.1" 200 3316
+[15/Oct/2014 19:20:53] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 200 57254
+[15/Oct/2014 19:20:54] "GET /static/My97DatePicker/skin/WdatePicker.css HTTP/1.1" 200 182
+[15/Oct/2014 19:31:00] "CONNECT mx3.mail2000.com.tw:25 HTTP/1.0" 404 1659
+[15/Oct/2014 19:35:39] "CONNECT mx0.mail2000.com.tw:25 HTTP/1.0" 404 1659
+[15/Oct/2014 20:00:36] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[15/Oct/2014 21:19:27] "GET /tmUnblock.cgi HTTP/1.1" 404 2137
+[15/Oct/2014 22:15:10] "GET / HTTP/1.1" 200 13354
+[15/Oct/2014 22:15:10] "GET /static/css/style.css HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/js/sun-tab.js HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/css/public.css HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/js/jquery.soChange.js HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/1.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/2.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/4.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/1_s.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/2_s.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/3.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/My97DatePicker/skin/WdatePicker.css HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/4_s.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/3_s.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/qilianshan.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/zan.png HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/zhuluoji.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/logo1.png HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/itabbg1.png HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/background.png HTTP/1.1" 304 0
+[15/Oct/2014 22:15:10] "GET /static/img/search.png HTTP/1.1" 304 0
+[15/Oct/2014 22:15:16] "GET /static/img/icn.png HTTP/1.1" 304 0
+[15/Oct/2014 22:15:16] "GET / HTTP/1.1" 200 13354
+[15/Oct/2014 22:15:18] "GET /t/settrip HTTP/1.1" 301 0
+[15/Oct/2014 22:15:18] "GET /t/settrip/ HTTP/1.1" 200 12217
+[15/Oct/2014 22:15:18] "GET /static/js/baidumap.js HTTP/1.1" 200 3070
+[15/Oct/2014 22:15:18] "GET /static/css/settrip.css HTTP/1.1" 200 3986
+[15/Oct/2014 22:15:18] "GET /static/js/settrip.js HTTP/1.1" 200 1373
+[15/Oct/2014 22:15:18] "GET /static/img/minus.png HTTP/1.1" 200 1307
+[15/Oct/2014 22:15:18] "GET /static/img/plus.png HTTP/1.1" 200 1338
+[15/Oct/2014 22:15:18] "GET /static/img/check_item_pass.png HTTP/1.1" 200 1419
+[15/Oct/2014 22:15:18] "GET /static/img/check_ico_pass.png HTTP/1.1" 200 1725
+[15/Oct/2014 22:15:18] "GET /static/img/u2.png HTTP/1.1" 200 16225
+[15/Oct/2014 22:15:18] "GET /static/img/ok_pass.png HTTP/1.1" 200 1150
+[15/Oct/2014 22:15:18] "GET /static/img/check_bg.png HTTP/1.1" 200 1043
+[15/Oct/2014 22:15:19] "GET /static/img/check_item_current.png HTTP/1.1" 200 1418
+[15/Oct/2014 22:15:19] "GET /static/img/check_ico_current.png HTTP/1.1" 200 1912
+[15/Oct/2014 22:15:19] "GET /static/img/arrow.png HTTP/1.1" 200 1117
+[15/Oct/2014 22:15:19] "GET /static/img/check_item.png HTTP/1.1" 200 1390
+[15/Oct/2014 22:15:19] "GET /static/img/ok.png HTTP/1.1" 200 1145
+[15/Oct/2014 22:15:19] "GET /static/img/check_ico.png HTTP/1.1" 200 1666
+[15/Oct/2014 22:15:19] "GET /static/img/sanya.jpg HTTP/1.1" 200 84291
+[15/Oct/2014 22:16:25] "GET /t/settrip/ HTTP/1.1" 200 12217
+[15/Oct/2014 22:16:27] "GET /t/login HTTP/1.1" 301 0
+[15/Oct/2014 22:16:27] "GET /t/login/ HTTP/1.1" 200 6935
+[15/Oct/2014 22:16:27] "GET /static/css/login.css HTTP/1.1" 304 0
+[15/Oct/2014 22:16:27] "GET /static/css/validate.css HTTP/1.1" 304 0
+[15/Oct/2014 22:16:27] "GET /static/js/jquery-1.4.1.min.js HTTP/1.1" 304 0
+[15/Oct/2014 22:16:27] "GET /static/img/login-logo.png HTTP/1.1" 304 0
+[15/Oct/2014 22:16:27] "GET /static/js/validate.js HTTP/1.1" 304 0
+[15/Oct/2014 22:16:27] "GET /static/js/jquery.leanModal.min.js HTTP/1.1" 304 0
+[15/Oct/2014 22:16:27] "GET /static/img/loginpig.png HTTP/1.1" 304 0
+[15/Oct/2014 22:16:27] "GET /static/img/TouClick_02.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:16:27] "GET /static/img/TouClick_01.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:16:27] "GET /static/img/spring.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:16:27] "GET /static/img/TouClick_04.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:16:27] "GET /static/img/TouClick_05.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:16:28] "GET /static/img/TouClick_07.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:16:28] "GET /static/img/TouClick_08.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:16:28] "GET /static/img/TouClick_09.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:16:28] "GET /static/img/TouClick_10.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:16:28] "GET /static/img/login-label.png HTTP/1.1" 304 0
+[15/Oct/2014 22:16:28] "GET /static/img/TouClick_11.jpg HTTP/1.1" 304 0
+[15/Oct/2014 22:16:28] "GET /static/img/fengefu.gif HTTP/1.1" 304 0
+[15/Oct/2014 22:16:39] "POST /t/loginvalidate/ HTTP/1.1" 200 13483
+[15/Oct/2014 22:16:39] "GET /static/img/user.png HTTP/1.1" 200 25926
+[15/Oct/2014 22:16:41] "GET /t/exit HTTP/1.1" 200 6935
+[15/Oct/2014 22:16:49] "POST /t/loginvalidate/ HTTP/1.1" 200 7107
+[15/Oct/2014 22:21:40] "GET http://www.google.com/ HTTP/1.0" 404 1656
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[15/Oct/2014 22:45:51] "GET http://www.baidu.com/?rands=_1002305620340387012582209642030870960 HTTP/1.0" 404 1697
+[15/Oct/2014 22:45:52] "GET http://www.soso.com/?rands=_416171245075328609132036597878576 HTTP/1.0" 404 1689
+[15/Oct/2014 22:45:52] "GET http://www.so.com/?rands=_198269546180348210860468781276223200 HTTP/1.0" 404 1684
+[15/Oct/2014 22:45:53] "GET http://60.173.11.232:2222/?rands=_65579373160545927641644401844066556 HTTP/1.0" 404 1715
+[15/Oct/2014 22:45:53] "GET http://mail.126.com/?rands=_23300094589076805853130082019813600 HTTP/1.0" 404 1691
+[15/Oct/2014 23:08:25] "GET / HTTP/1.1" 200 13483
+[15/Oct/2014 23:08:26] "GET /static/img/qilianshan.jpg HTTP/1.1" 200 8269
+[15/Oct/2014 23:08:26] "GET /static/img/zan.png HTTP/1.1" 200 591
+[15/Oct/2014 23:08:26] "GET /static/img/zhuluoji.jpg HTTP/1.1" 200 22440
+[15/Oct/2014 23:08:49] "GET /t/exit HTTP/1.1" 200 6935
+[15/Oct/2014 23:08:49] "GET /static/css/validate.css HTTP/1.1" 304 0
+[15/Oct/2014 23:08:49] "GET /static/css/login.css HTTP/1.1" 304 0
+[15/Oct/2014 23:08:49] "GET /static/js/jquery-1.4.1.min.js HTTP/1.1" 304 0
+[15/Oct/2014 23:08:49] "GET /static/js/jquery.leanModal.min.js HTTP/1.1" 304 0
+[15/Oct/2014 23:08:49] "GET /static/js/validate.js HTTP/1.1" 304 0
+[15/Oct/2014 23:08:50] "GET /static/img/login-logo.png HTTP/1.1" 304 0
+[15/Oct/2014 23:08:50] "GET /static/img/TouClick_01.jpg HTTP/1.1" 304 0
+[15/Oct/2014 23:08:50] "GET /static/img/TouClick_02.jpg HTTP/1.1" 304 0
+[15/Oct/2014 23:08:50] "GET /static/img/spring.jpg HTTP/1.1" 304 0
+[15/Oct/2014 23:08:50] "GET /static/img/TouClick_10.jpg HTTP/1.1" 304 0
+[15/Oct/2014 23:08:50] "GET /static/img/TouClick_04.jpg HTTP/1.1" 304 0
+[15/Oct/2014 23:08:50] "GET /static/img/TouClick_11.jpg HTTP/1.1" 304 0
+[15/Oct/2014 23:08:50] "GET /static/img/fengefu.gif HTTP/1.1" 304 0
+[15/Oct/2014 23:08:50] "GET /static/img/login-label.png HTTP/1.1" 304 0
+[15/Oct/2014 23:08:50] "GET /static/img/TouClick_05.jpg HTTP/1.1" 304 0
+[15/Oct/2014 23:08:50] "GET /static/img/TouClick_07.jpg HTTP/1.1" 304 0
+[15/Oct/2014 23:08:50] "GET /static/img/TouClick_08.jpg HTTP/1.1" 304 0
+[15/Oct/2014 23:08:51] "GET /static/img/TouClick_09.jpg HTTP/1.1" 304 0
+[15/Oct/2014 23:09:11] "POST /t/loginvalidate/ HTTP/1.1" 200 7107
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 223, in write
+    self._write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[15/Oct/2014 23:09:11] "GET /static/js/jquery-1.4.1.min.js HTTP/1.1" 304 0
+[15/Oct/2014 23:09:11] "GET /static/js/validate.js HTTP/1.1" 304 0
+[15/Oct/2014 23:09:11] "GET /static/js/jquery.leanModal.min.js HTTP/1.1" 304 0
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 223, in write
+    self._write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[15/Oct/2014 23:09:19] "GET /t/register HTTP/1.1" 301 0
+[15/Oct/2014 23:09:20] "GET /t/register/ HTTP/1.1" 200 11611
+[15/Oct/2014 23:09:20] "GET /static/css/inputvalidate.css HTTP/1.1" 304 0
+[15/Oct/2014 23:09:20] "GET /static/css/register.css HTTP/1.1" 304 0
+[15/Oct/2014 23:09:20] "GET /static/js/register.js HTTP/1.1" 304 0
+[15/Oct/2014 23:09:20] "GET /static/js/formValidator-4.0.1.min.js HTTP/1.1" 304 0
+[15/Oct/2014 23:09:20] "GET /static/js/formValidatorRegex.js HTTP/1.1" 304 0
+[15/Oct/2014 23:09:20] "GET /static/js/DateTimeMask.js HTTP/1.1" 304 0
+[15/Oct/2014 23:09:20] "GET /static/js/inputvalidate.js HTTP/1.1" 304 0
+[15/Oct/2014 23:09:20] "GET /static/img/onShow.gif HTTP/1.1" 304 0
+[15/Oct/2014 23:09:20] "GET /static/img/onCorrect.gif HTTP/1.1" 304 0
+[15/Oct/2014 23:09:20] "GET /static/img/steps-circle.png HTTP/1.1" 304 0
+[15/Oct/2014 23:09:20] "GET /static/img/steps.png HTTP/1.1" 304 0
+[15/Oct/2014 23:13:44] "GET /manager/html HTTP/1.1" 404 2134
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[16/Oct/2014 01:45:57] "GET /xoxo/xox/xo.php HTTP/1.1" 404 2143
+[16/Oct/2014 01:45:58] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 404 2182
+[16/Oct/2014 01:45:58] "GET /pma/scripts/setup.php HTTP/1.1" 404 2161
+[16/Oct/2014 01:45:58] "GET /myadmin/scripts/setup.php HTTP/1.1" 404 2173
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[16/Oct/2014 03:37:02] "GET /manager/html HTTP/1.1" 404 2137
+[16/Oct/2014 04:00:59] "GET /items/0a4q34 HTTP/1.1" 404 2139
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[16/Oct/2014 04:18:17] "GET http://www.baidu.com/?rands=_402710466802174016225929903753907584 HTTP/1.0" 404 1696
+[16/Oct/2014 04:18:18] "GET http://www.soso.com/?rands=_56007002935357803231983161298236800 HTTP/1.0" 404 1691
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[16/Oct/2014 04:18:19] "GET http://60.173.11.232:2222/?rands=_40308201876144682922695701462291224 HTTP/1.0" 404 1715
+[16/Oct/2014 04:18:19] "GET http://mail.126.com/?rands=_2405702944404885821773122291065696 HTTP/1.0" 404 1690
+[16/Oct/2014 05:07:36] "GET /destination.html HTTP/1.1" 404 2151
+[16/Oct/2014 05:17:48] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[16/Oct/2014 05:41:15] "HEAD / HTTP/1.1" 200 0
+[16/Oct/2014 06:07:08] "GET http://www.baidu.com/ HTTP/1.1" 404 1652
+[16/Oct/2014 06:28:31] "GET /tmUnblock.cgi HTTP/1.1" 404 2137
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[16/Oct/2014 09:13:05] "GET / HTTP/1.1" 200 13354
+[16/Oct/2014 09:44:45] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[16/Oct/2014 10:16:07] "GET /js/jquery.soChange.js HTTP/1.1" 404 2166
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[16/Oct/2014 10:27:48] "GET http://www.baidu.com/?rands=_610631235025334226960280355452416 HTTP/1.0" 404 1693
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[16/Oct/2014 10:27:50] "GET http://www.so.com/?rands=_78226964462553043252631441815107196 HTTP/1.0" 404 1683
+[16/Oct/2014 10:27:57] "GET http://60.173.11.232:2222/?rands=_18863046310475402997852002120055552 HTTP/1.0" 404 1715
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[16/Oct/2014 11:08:49] "GET /manager/html HTTP/1.1" 404 2137
+[16/Oct/2014 11:16:48] "GET / HTTP/1.1" 200 13354
+[16/Oct/2014 12:12:32] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[16/Oct/2014 12:58:21] "GET /tmUnblock.cgi HTTP/1.1" 404 2137
+[16/Oct/2014 13:54:31] "GET /manager/html HTTP/1.1" 404 2134
+[16/Oct/2014 14:24:55] "GET /manager/html HTTP/1.1" 404 2134
+[16/Oct/2014 14:42:00] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[16/Oct/2014 15:27:02] "CONNECT nid.naver.com:443 HTTP/1.0" 404 1644
+[16/Oct/2014 15:48:49] "GET / HTTP/1.1" 200 13354
+[16/Oct/2014 15:48:50] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 200 57254
+[16/Oct/2014 15:48:50] "GET /static/js/sun-tab.js HTTP/1.1" 200 850
+[16/Oct/2014 15:48:50] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 200 10181
+[16/Oct/2014 15:48:50] "GET /static/js/jquery.soChange.js HTTP/1.1" 200 3316
+[16/Oct/2014 15:52:35] "GET /dpdp/dpd/dp.php HTTP/1.1" 404 2143
+[16/Oct/2014 15:52:35] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 404 2182
+[16/Oct/2014 15:52:36] "GET /pma/scripts/setup.php HTTP/1.1" 404 2161
+[16/Oct/2014 15:52:36] "GET /myadmin/scripts/setup.php HTTP/1.1" 404 2173
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[16/Oct/2014 16:55:04] "GET http://www.baidu.com/?rands=_3914883739167563414090061264536000 HTTP/1.0" 404 1694
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[16/Oct/2014 16:55:04] "GET http://www.so.com/?rands=_778755011678424506732834773490520684 HTTP/1.0" 404 1684
+[16/Oct/2014 16:55:05] "GET http://60.173.11.232:2222/?rands=_217089955882904729361382800032896 HTTP/1.0" 404 1713
+[16/Oct/2014 16:55:05] "GET http://mail.126.com/?rands=_4347915500785110750049356579224280 HTTP/1.0" 404 1690
+[16/Oct/2014 17:18:20] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[16/Oct/2014 19:50:45] "CONNECT www.google.com:443 HTTP/1.0" 404 1647
+[16/Oct/2014 19:51:02] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[16/Oct/2014 21:32:10] "GET http://www.so.com/ HTTP/1.1" 404 1640
+[16/Oct/2014 21:45:24] "GET http://yazoodle.net/azenv.php HTTP/1.0" 404 1675
+[16/Oct/2014 21:45:27] "GET http://www.proxyjudge.biz/az.php HTTP/1.0" 404 1690
+[16/Oct/2014 22:03:47] "GET http://www.google.com/ HTTP/1.0" 404 1656
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[16/Oct/2014 22:08:15] "GET http://www.baidu.com/?rands=_488125941277115019470904083716720 HTTP/1.0" 404 1693
+[16/Oct/2014 22:08:15] "GET http://www.soso.com/?rands=_4378502855868009659592212546117728 HTTP/1.0" 404 1690
+[16/Oct/2014 22:08:16] "GET http://www.so.com/?rands=_4161806317939964438092821709870752 HTTP/1.0" 404 1682
+[16/Oct/2014 22:08:19] "GET http://60.173.11.232:2222/?rands=_660330318620121026214644205634592 HTTP/1.0" 404 1713
+[16/Oct/2014 22:08:29] "GET http://mail.126.com/?rands=_3895840340563054456300241755751328 HTTP/1.0" 404 1690
+[16/Oct/2014 23:04:48] "CONNECT mx2.mail2000.com.tw:25 HTTP/1.0" 404 1659
+[16/Oct/2014 23:52:07] "GET / HTTP/1.1" 200 13354
+[16/Oct/2014 23:52:07] "GET /static/css/public.css HTTP/1.1" 304 0
+[16/Oct/2014 23:52:07] "GET /static/css/style.css HTTP/1.1" 304 0
+[16/Oct/2014 23:52:07] "GET /static/js/sun-tab.js HTTP/1.1" 304 0
+[16/Oct/2014 23:52:07] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 304 0
+[16/Oct/2014 23:52:07] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 304 0
+[16/Oct/2014 23:52:07] "GET /static/js/jquery.soChange.js HTTP/1.1" 304 0
+[16/Oct/2014 23:52:08] "GET /static/My97DatePicker/skin/WdatePicker.css HTTP/1.1" 304 0
+[16/Oct/2014 23:52:08] "GET /static/img/1.jpg HTTP/1.1" 304 0
+[16/Oct/2014 23:52:08] "GET /static/img/3.jpg HTTP/1.1" 304 0
+[16/Oct/2014 23:52:08] "GET /static/img/2.jpg HTTP/1.1" 304 0
+[16/Oct/2014 23:52:08] "GET /static/img/4.jpg HTTP/1.1" 304 0
+[16/Oct/2014 23:52:08] "GET /static/img/1_s.jpg HTTP/1.1" 304 0
+[16/Oct/2014 23:52:08] "GET /static/img/background.png HTTP/1.1" 304 0
+[16/Oct/2014 23:52:08] "GET /static/img/2_s.jpg HTTP/1.1" 304 0
+[16/Oct/2014 23:52:08] "GET /static/img/3_s.jpg HTTP/1.1" 304 0
+[16/Oct/2014 23:52:08] "GET /static/img/itabbg1.png HTTP/1.1" 304 0
+[16/Oct/2014 23:52:08] "GET /static/img/4_s.jpg HTTP/1.1" 304 0
+[16/Oct/2014 23:52:08] "GET /static/img/search.png HTTP/1.1" 304 0
+[16/Oct/2014 23:52:08] "GET /static/img/logo1.png HTTP/1.1" 304 0
+[16/Oct/2014 23:52:15] "GET /t/login HTTP/1.1" 301 0
+[16/Oct/2014 23:52:15] "GET /t/login/ HTTP/1.1" 200 6935
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 223, in write
+    self._write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[16/Oct/2014 23:52:18] "GET /t/register HTTP/1.1" 301 0
+[16/Oct/2014 23:52:18] "GET /t/register/ HTTP/1.1" 200 11611
+[16/Oct/2014 23:52:19] "GET /static/img/onFocus.gif HTTP/1.1" 200 633
+[16/Oct/2014 23:52:27] "GET /t/unvalidate?clientid=us&rand=1413474758006&us=sunzongsheng&_=1413474748017 HTTP/1.1" 301 0
+[16/Oct/2014 23:52:27] "GET /static/img/onLoad.gif HTTP/1.1" 200 781
+[16/Oct/2014 23:52:28] "GET /t/unvalidate/?clientid=us&rand=1413474758006&us=sunzongsheng&_=1413474748017 HTTP/1.1" 200 10
+[16/Oct/2014 23:52:46] "GET /static/img/onError.gif HTTP/1.1" 200 633
+[16/Oct/2014 23:52:48] "GET /static/My97DatePicker/skin/default/datepicker.css HTTP/1.1" 304 0
+[16/Oct/2014 23:52:48] "GET /static/My97DatePicker/calendar.js HTTP/1.1" 304 0
+[16/Oct/2014 23:52:48] "GET /static/My97DatePicker/lang/zh-cn.js HTTP/1.1" 304 0
+[16/Oct/2014 23:52:48] "GET /static/My97DatePicker/skin/default/img.gif HTTP/1.1" 304 0
+[16/Oct/2014 23:53:28] "POST /t/regsucc/ HTTP/1.1" 200 5032
+[16/Oct/2014 23:53:29] "GET /static/css/style.css HTTP/1.1" 304 0
+[16/Oct/2014 23:53:29] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 304 0
+[16/Oct/2014 23:53:29] "GET /static/js/sun-tab.js HTTP/1.1" 304 0
+[16/Oct/2014 23:53:29] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 304 0
+[16/Oct/2014 23:53:29] "GET /static/js/jquery.soChange.js HTTP/1.1" 304 0
+[16/Oct/2014 23:53:29] "GET /static/js/register.js HTTP/1.1" 304 0
+[16/Oct/2014 23:53:29] "GET /static/img/duihao.png HTTP/1.1" 200 27272
+[16/Oct/2014 23:59:55] "GET / HTTP/1.1" 200 13354
+[17/Oct/2014 00:05:28] "GET / HTTP/1.1" 200 13354
+[17/Oct/2014 00:05:46] "GET /static/js/sun-tab.js HTTP/1.1" 200 850
+[17/Oct/2014 00:05:46] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 200 10181
+[17/Oct/2014 00:05:46] "GET /static/js/jquery.soChange.js HTTP/1.1" 200 3316
+[17/Oct/2014 00:05:47] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 200 57254
+[17/Oct/2014 00:06:00] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 200 57254
+[17/Oct/2014 00:06:01] "GET /static/js/sun-tab.js HTTP/1.1" 200 850
+[17/Oct/2014 00:06:01] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 200 10181
+[17/Oct/2014 00:06:02] "GET /static/js/jquery.soChange.js HTTP/1.1" 200 3316
+[17/Oct/2014 00:07:18] "GET / HTTP/1.1" 200 13354
+[17/Oct/2014 00:07:18] "GET /static/css/public.css HTTP/1.1" 200 2316
+[17/Oct/2014 00:07:18] "GET /static/css/style.css HTTP/1.1" 200 3229
+[17/Oct/2014 00:07:18] "GET /static/js/jquery.soChange.js HTTP/1.1" 200 3316
+[17/Oct/2014 00:07:18] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 200 10181
+[17/Oct/2014 00:07:18] "GET /static/js/sun-tab.js HTTP/1.1" 200 850
+[17/Oct/2014 00:07:18] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 200 57254
+[17/Oct/2014 00:07:19] "GET /static/My97DatePicker/skin/WdatePicker.css HTTP/1.1" 200 182
+[17/Oct/2014 00:30:49] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[17/Oct/2014 02:23:54] "CONNECT mx3.mail2000.com.tw:25 HTTP/1.0" 404 1659
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[17/Oct/2014 03:14:05] "GET http://www.baidu.com/?rands=_17772325700538562770267501967921936 HTTP/1.0" 404 1695
+[17/Oct/2014 03:14:05] "GET http://www.soso.com/?rands=_477915835035450658108470136753320 HTTP/1.0" 404 1689
+[17/Oct/2014 03:14:06] "GET http://www.so.com/?rands=_1553416427499964369636828297481536 HTTP/1.0" 404 1682
+[17/Oct/2014 03:14:06] "GET http://60.173.11.232:2222/?rands=_457095130883712036269101080537304 HTTP/1.0" 404 1713
+[17/Oct/2014 03:14:07] "GET http://mail.126.com/?rands=_108378014135224810622280001973169012 HTTP/1.0" 404 1692
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[17/Oct/2014 05:36:55] "HEAD / HTTP/1.1" 200 0
+[17/Oct/2014 07:30:20] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[17/Oct/2014 07:37:11] "GET /robots.txt HTTP/1.1" 404 2133
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[17/Oct/2014 09:13:52] "GET http://www.baidu.com/?rands=_58012747752532441245213768896497968 HTTP/1.0" 404 1695
+[17/Oct/2014 09:13:52] "GET http://www.soso.com/?rands=_6506886088597645458758661993458400 HTTP/1.0" 404 1690
+[17/Oct/2014 09:13:56] "GET http://www.so.com/?rands=_453320087463490410167564001693583040 HTTP/1.0" 404 1684
+[17/Oct/2014 09:13:56] "GET http://60.173.11.232:2222/?rands=_89463886339787216524649202040429440 HTTP/1.0" 404 1715
+[17/Oct/2014 09:13:57] "GET http://mail.126.com/?rands=_468871229914943424167650250870688 HTTP/1.0" 404 1689
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[17/Oct/2014 09:44:43] "GET http://azenv.net/ HTTP/1.0" 404 1636
+[17/Oct/2014 09:44:43] "GET /count.html HTTP/1.1" 404 2133
+[17/Oct/2014 09:51:04] "GET http://sonke31.free.fr/world.php HTTP/1.0" 404 1687
+[17/Oct/2014 10:40:24] "CONNECT nid.naver.com:443 HTTP/1.0" 404 1644
+[17/Oct/2014 10:40:40] "GET /zwzw/zwz/zw.php HTTP/1.1" 404 2143
+[17/Oct/2014 10:40:41] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 404 2182
+[17/Oct/2014 10:40:41] "GET /pma/scripts/setup.php HTTP/1.1" 404 2161
+[17/Oct/2014 10:40:41] "GET /myadmin/scripts/setup.php HTTP/1.1" 404 2173
+[17/Oct/2014 11:38:43] "GET /items/n0zcpa HTTP/1.1" 404 2139
+[17/Oct/2014 11:52:16] "GET /tmUnblock.cgi HTTP/1.1" 404 2137
+[17/Oct/2014 11:55:50] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[17/Oct/2014 14:08:15] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[17/Oct/2014 14:51:24] "CONNECT mx3.mail2000.com.tw:25 HTTP/1.0" 404 1659
+[17/Oct/2014 15:02:26] "CONNECT nid.naver.com:443 HTTP/1.0" 404 1644
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[17/Oct/2014 15:28:48] "GET http://www.baidu.com/?rands=_88397213534454410633995751964971668 HTTP/1.0" 404 1695
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[17/Oct/2014 15:28:49] "GET http://www.so.com/?rands=_68586844055821610303285921472493680 HTTP/1.0" 404 1683
+[17/Oct/2014 15:28:49] "GET http://60.173.11.232:2222/?rands=_230118611035009291784340836667024 HTTP/1.0" 404 1713
+[17/Oct/2014 15:28:50] "GET http://mail.126.com/?rands=_54711603017157003335892841322733292 HTTP/1.0" 404 1691
+[17/Oct/2014 16:30:38] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[17/Oct/2014 16:39:23] "GET /manager/html HTTP/1.1" 404 2134
+[17/Oct/2014 16:45:37] "HEAD / HTTP/1.0" 200 0
+[17/Oct/2014 18:03:39] "GET /tmUnblock.cgi HTTP/1.1" 404 2137
+[17/Oct/2014 18:24:41] "GET http://www.baidu.com/ HTTP/1.1" 404 1652
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[17/Oct/2014 19:58:42] "CONNECT mx2.mail2000.com.tw:25 HTTP/1.0" 404 1659
+Validating models...
+
+0 errors found
+October 15, 2014 - 16:19:51
+Django version 1.6b1, using settings 'lvxing.settings'
+Starting development server at http://121.40.179.38:80/
+Quit the server with CONTROL-C.
+sunfei7777 #############
+158feifei #############
+sun #############
+123 #############
+mei you
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 7681)
+----------------------------------------
+ #############
+ #############
+mei you
+----------------------------------------
+Exception happened during processing of request from ('218.203.79.73', 36293)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('218.203.79.73', 37123)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('198.52.110.69', 4125)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('198.74.111.236', 1321)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 17387)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 18326)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('198.74.111.236', 2947)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 11620)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 12549)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 14757)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 37956)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 38554)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 41612)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('218.203.79.83', 27368)
+----------------------------------------
+get is right
+Apress isn't in the database yet.
+save is ok
+----------------------------------------
+Exception happened during processing of request from ('198.52.110.69', 3149)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 43123)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('198.74.111.236', 1253)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 45882)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('198.74.111.236', 3248)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 36292)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 38240)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('198.74.111.236', 1167)
+----------------------------------------
+---------Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[17/Oct/2014 20:02:56] "GET http://www.baidu.com/?rands=_320443258239200032858293951500041424 HTTP/1.0" 404 1696
+[17/Oct/2014 20:02:56] "GET http://www.soso.com/?rands=_73777746002849581540015302987016064 HTTP/1.0" 404 1691
+[17/Oct/2014 20:02:57] "GET http://www.so.com/?rands=_86719451325911088428093250064496 HTTP/1.0" 404 1680
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[17/Oct/2014 20:02:57] "GET http://60.173.11.232:2222/?rands=_3347013118497960263580600485686468 HTTP/1.0" 404 1714
+[17/Oct/2014 20:02:57] "GET http://www.baidu.com/?rands=_62784003955057206506520003158221800 HTTP/1.0" 404 1695
+[17/Oct/2014 20:02:58] "GET http://mail.126.com/?rands=_6260733229889274737743305862638524 HTTP/1.0" 404 1690
+[17/Oct/2014 20:02:58] "GET http://www.soso.com/?rands=_5358724830951484843492021803392000 HTTP/1.0" 404 1690
+[17/Oct/2014 20:02:58] "GET http://www.so.com/?rands=_29702864500111287593953641571933904 HTTP/1.0" 404 1683
+[17/Oct/2014 20:02:59] "GET http://60.173.11.232:2222/?rands=_60236801262360487777960921256774400 HTTP/1.0" 404 1715
+[17/Oct/2014 20:02:59] "GET http://mail.126.com/?rands=_1860768338410000664151697358094520 HTTP/1.0" 404 1690
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[17/Oct/2014 20:04:49] "GET http://www.baidu.com/?rands=_38208832575562401223530201609527360 HTTP/1.0" 404 1695
+[17/Oct/2014 20:04:50] "GET http://www.soso.com/?rands=_2824482051670406574690351760522036 HTTP/1.0" 404 1690
+[17/Oct/2014 20:04:50] "GET http://www.so.com/?rands=_29169603319839488167086301908924164 HTTP/1.0" 404 1683
+[17/Oct/2014 20:04:51] "GET http://60.173.11.232:2222/?rands=_80646204607424126055971271178209180 HTTP/1.0" 404 1715
+[17/Oct/2014 20:04:51] "GET http://mail.126.com/?rands=_19127707651816803851991002778622944 HTTP/1.0" 404 1691
+[17/Oct/2014 20:53:26] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[17/Oct/2014 22:58:05] "GET /robots.txt HTTP/1.1" 404 2133
+[17/Oct/2014 23:02:42] "GET /css/public.css HTTP/1.1" 404 2145
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[18/Oct/2014 00:24:27] "GET http://www.baidu.com/?rands=_7000524707043501265981532258334740 HTTP/1.0" 404 1694
+[18/Oct/2014 00:24:28] "GET http://www.soso.com/?rands=_16705665623890482762116501986474816 HTTP/1.0" 404 1691
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[18/Oct/2014 00:24:29] "GET http://60.173.11.232:2222/?rands=_1738719251765124776106936833573952 HTTP/1.0" 404 1714
+[18/Oct/2014 00:24:32] "GET http://mail.126.com/?rands=_66896534578150482461992421016063808 HTTP/1.0" 404 1691
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[18/Oct/2014 02:31:34] "CONNECT mx0.mail2000.com.tw:25 HTTP/1.0" 404 1659
+[18/Oct/2014 03:39:15] "GET http://www.google.com/ HTTP/1.0" 404 1656
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[18/Oct/2014 04:54:34] "GET http://www.baidu.com/?rands=_182961080016735620470030021392657324 HTTP/1.0" 404 1696
+[18/Oct/2014 04:54:35] "GET http://www.soso.com/?rands=_412265710691923038791098082166304 HTTP/1.0" 404 1689
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[18/Oct/2014 04:54:36] "GET http://60.173.11.232:2222/?rands=_4622564351817566494944561961394624 HTTP/1.0" 404 1714
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[18/Oct/2014 05:33:00] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[18/Oct/2014 05:55:32] "HEAD / HTTP/1.1" 200 0
+[18/Oct/2014 06:50:01] "CONNECT mx2.mail2000.com.tw:25 HTTP/1.0" 404 1659
+[18/Oct/2014 07:16:15] "GET /tmUnblock.cgi HTTP/1.1" 404 2137
+[18/Oct/2014 07:33:43] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[18/Oct/2014 09:15:05] "CONNECT mx2.mail2000.com.tw:25 HTTP/1.0" 404 1659
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[18/Oct/2014 09:23:54] "GET http://www.baidu.com/?rands=_346377638367075011110515481716205572 HTTP/1.0" 404 1696
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[18/Oct/2014 09:23:54] "GET http://www.so.com/?rands=_2466639124124086102928968923844804 HTTP/1.0" 404 1682
+[18/Oct/2014 09:23:55] "GET http://60.173.11.232:2222/?rands=_586788043815195260672696246457376 HTTP/1.0" 404 1713
+[18/Oct/2014 09:23:56] "GET http://mail.126.com/?rands=_2618165228919340924721620411167680 HTTP/1.0" 404 1690
+[18/Oct/2014 09:29:44] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[18/Oct/2014 10:29:58] "GET http://www.proxyjudge.biz/az.php HTTP/1.0" 404 1690
+[18/Oct/2014 10:43:50] "GET http://azenv.net/ HTTP/1.0" 404 1636
+[18/Oct/2014 11:00:24] "GET / HTTP/1.1" 200 13354
+[18/Oct/2014 11:00:25] "GET /t/settrip HTTP/1.1" 301 0
+[18/Oct/2014 11:00:25] "GET /plans/r0qz1m/map HTTP/1.1" 404 2151
+[18/Oct/2014 11:00:26] "GET /items/60zmhn HTTP/1.1" 404 2139
+[18/Oct/2014 11:00:27] "GET /items/0ao1x6 HTTP/1.1" 404 2139
+[18/Oct/2014 11:00:27] "GET /items/zn0ae9 HTTP/1.1" 404 2139
+[18/Oct/2014 11:00:28] "GET /count.html HTTP/1.1" 404 2133
+[18/Oct/2014 11:00:29] "GET /t/hotel/ HTTP/1.1" 404 3787
+[18/Oct/2014 11:00:30] "GET /items/0a4q34 HTTP/1.1" 404 2139
+[18/Oct/2014 11:00:31] "GET /t/index HTTP/1.1" 301 0
+[18/Oct/2014 11:00:31] "GET /settrip.html HTTP/1.1" 404 2139
+[18/Oct/2014 11:13:32] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[18/Oct/2014 13:19:36] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[18/Oct/2014 13:38:39] "GET http://www.mesregies.com/azz.php HTTP/1.0" 404 1689
+[18/Oct/2014 13:38:42] "GET http://www.mesregies.com/azz.php HTTP/1.0" 404 1689
+[18/Oct/2014 13:40:01] "GET http://azenv.net/ HTTP/1.0" 404 1636
+[18/Oct/2014 13:40:04] "GET http://www.proxyjudge.biz/az.php HTTP/1.0" 404 1690
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[18/Oct/2014 14:02:05] "GET http://www.baidu.com/?rands=_25287452563832441062729075456865024 HTTP/1.0" 404 1695
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[18/Oct/2014 14:02:09] "GET http://www.so.com/?rands=_1294106346456138804164970899468320 HTTP/1.0" 404 1682
+[18/Oct/2014 14:02:09] "GET http://60.173.11.232:2222/?rands=_4501674181747880414880920763339264 HTTP/1.0" 404 1714
+[18/Oct/2014 14:02:09] "GET http://mail.126.com/?rands=_5509812249967206453196650768857164 HTTP/1.0" 404 1690
+[18/Oct/2014 14:17:14] "GET http://proxyjudge.us/ HTTP/1.0" 404 1652
+[18/Oct/2014 14:18:14] "GET http://www.mesregies.com/azz.php HTTP/1.0" 404 1689
+[18/Oct/2014 14:28:07] "GET /user/soapCaller.bs HTTP/1.1" 404 2152
+[18/Oct/2014 15:16:47] "GET / HTTP/1.0" 200 13354
+[18/Oct/2014 15:16:47] "GET /static/css/public.css HTTP/1.0" 200 2316
+[18/Oct/2014 15:16:48] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.0" 200 10181
+[18/Oct/2014 15:16:48] "GET /static/js/sun-tab.js HTTP/1.0" 200 850
+[18/Oct/2014 15:16:48] "GET /static/js/jquery.soChange.js HTTP/1.0" 200 3316
+[18/Oct/2014 15:16:48] "GET /static/css/style.css HTTP/1.0" 200 3229
+[18/Oct/2014 15:16:48] "GET /static/js/jquery-1.3.2.min.js HTTP/1.0" 200 57254
+[18/Oct/2014 15:16:49] "GET /static/js/sun-tab.js HTTP/1.0" 304 0
+[18/Oct/2014 15:16:49] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.0" 304 0
+[18/Oct/2014 15:16:49] "GET /static/My97DatePicker/skin/WdatePicker.css HTTP/1.0" 200 182
+[18/Oct/2014 15:16:49] "GET /static/js/jquery.soChange.js HTTP/1.0" 304 0
+[18/Oct/2014 15:27:10] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[18/Oct/2014 17:12:02] "GET /items/60zmhn HTTP/1.1" 404 2139
+[18/Oct/2014 17:39:43] "GET http://www.google.com/ HTTP/1.0" 404 1656
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[18/Oct/2014 18:25:24] "GET http://www.baidu.com/?rands=_28490216978185209049895763105447968 HTTP/1.0" 404 1695
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[18/Oct/2014 18:25:24] "GET http://www.so.com/?rands=_4124163628877723616157701339265600 HTTP/1.0" 404 1682
+[18/Oct/2014 18:25:25] "GET http://60.173.11.232:2222/?rands=_32313123821826129512089142244804128 HTTP/1.0" 404 1715
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[18/Oct/2014 18:42:37] "GET / HTTP/1.1" 200 13354
+[18/Oct/2014 18:42:37] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 200 57254
+[18/Oct/2014 18:42:38] "GET /static/js/sun-tab.js HTTP/1.1" 200 850
+[18/Oct/2014 18:42:38] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 200 10181
+[18/Oct/2014 18:42:38] "GET /static/js/jquery.soChange.js HTTP/1.1" 200 3316
+[18/Oct/2014 19:43:59] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[18/Oct/2014 21:49:11] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[18/Oct/2014 22:31:02] "CONNECT mx3.mail2000.com.tw:25 HTTP/1.0" 404 1659
+[18/Oct/2014 23:28:49] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[19/Oct/2014 00:08:01] "GET / HTTP/1.0" 200 13354
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[19/Oct/2014 00:22:38] "GET http://www.baidu.com/?rands=_26913605733190001158315156621930372 HTTP/1.0" 404 1695
+[19/Oct/2014 00:22:38] "GET http://www.soso.com/?rands=_80592404184879165601829711110585160 HTTP/1.0" 404 1691
+[19/Oct/2014 00:22:39] "GET http://www.so.com/?rands=_25558264184759881247996640578618192 HTTP/1.0" 404 1683
+[19/Oct/2014 00:22:39] "GET http://60.173.11.232:2222/?rands=_609272459812950487224976363545776 HTTP/1.0" 404 1713
+[19/Oct/2014 00:22:40] "GET http://mail.126.com/?rands=_37295676852812408954047563179693104 HTTP/1.0" 404 1691
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[19/Oct/2014 03:36:53] "GET http://www.baidu.com/ HTTP/1.1" 404 1652
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[19/Oct/2014 05:38:28] "GET http://www.baidu.com/?rands=_4404484076021803882204541402415200 HTTP/1.0" 404 1694
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[19/Oct/2014 05:38:28] "GET http://www.so.com/?rands=_56310752583499846129681481483007220 HTTP/1.0" 404 1683
+[19/Oct/2014 05:38:29] "GET http://60.173.11.232:2222/?rands=_172236434249989613847195042156507416 HTTP/1.0" 404 1716
+[19/Oct/2014 05:38:29] "GET http://mail.126.com/?rands=_3990348210121080468240480846401172 HTTP/1.0" 404 1690
+[19/Oct/2014 06:22:35] "HEAD / HTTP/1.1" 200 0
+[19/Oct/2014 06:52:30] "GET /tmUnblock.cgi HTTP/1.1" 404 2137
+[19/Oct/2014 07:15:55] "GET /plans/r0qz1m/map HTTP/1.1" 404 2151
+[19/Oct/2014 07:18:00] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[19/Oct/2014 07:54:03] "GET /tmUnblock.cgi HTTP/1.1" 404 2137
+[19/Oct/2014 09:03:13] "GET http://www.google.com/ HTTP/1.0" 404 1656
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[19/Oct/2014 10:26:47] "GET http://www.baidu.com/?rands=_1962800780056688727960794559856676 HTTP/1.0" 404 1694
+[19/Oct/2014 10:26:48] "GET http://www.soso.com/?rands=_42063844573558089904000891174012800 HTTP/1.0" 404 1691
+[19/Oct/2014 10:26:48] "GET http://www.so.com/?rands=_70938004566418042369724211908207504 HTTP/1.0" 404 1683
+[19/Oct/2014 10:26:49] "GET http://60.173.11.232:2222/?rands=_1792500154044990798035700728423120 HTTP/1.0" 404 1714
+[19/Oct/2014 10:26:49] "GET http://mail.126.com/?rands=_410186712457576446063494696910880 HTTP/1.0" 404 1689
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[19/Oct/2014 10:53:50] "GET / HTTP/1.1" 200 13354
+[19/Oct/2014 10:53:51] "GET /robots.txt HTTP/1.1" 404 2128
+[19/Oct/2014 11:05:55] "GET /manager/html HTTP/1.1" 404 2134
+[19/Oct/2014 11:49:30] "GET /manager/html HTTP/1.1" 404 2134
+[19/Oct/2014 12:09:05] "GET http://sonke31.free.fr/world.php HTTP/1.0" 404 1687
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[19/Oct/2014 12:20:46] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[19/Oct/2014 14:10:55] "GET http://www.baidu.com/ HTTP/1.1" 404 1652
+[19/Oct/2014 14:15:42] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[19/Oct/2014 15:10:06] "CONNECT mx2.mail2000.com.tw:25 HTTP/1.0" 404 1659
+[19/Oct/2014 16:02:18] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[19/Oct/2014 17:40:42] "GET / HTTP/1.1" 200 13354
+[19/Oct/2014 17:40:42] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 200 57254
+[19/Oct/2014 17:40:42] "GET /static/js/sun-tab.js HTTP/1.1" 200 850
+[19/Oct/2014 17:40:42] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 200 10181
+[19/Oct/2014 17:40:42] "GET /static/js/jquery.soChange.js HTTP/1.1" 200 3316
+[19/Oct/2014 17:57:41] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[19/Oct/2014 18:14:43] "GET / HTTP/1.1" 200 13354
+[19/Oct/2014 19:18:21] "GET / HTTP/1.1" 200 13354
+[19/Oct/2014 19:53:20] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[19/Oct/2014 20:59:17] "GET /items/q0zcc8 HTTP/1.1" 404 2139
+[19/Oct/2014 21:27:14] "GET /manager/html HTTP/1.1" 404 2134
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+-------------------------------
+Exception happened during processing of request from ('192.184.60.203', 10560)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 11542)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 42264)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 7343)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 8411)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('198.52.110.69', 2702)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 20700)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 21535)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 22134)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 38170)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 38871)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 43410)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 44165)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 5014)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 5297)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 5882)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 47987)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('198.74.111.236', 3360)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('198.74.111.236', 1892)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('198.52.110.69', 4465)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 15482)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 16050)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('192.184.60.203', 52649)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('198.52.110.69', 1488)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('218.59.238.92', 43223)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[19/Oct/2014 22:29:23] "GET http://www.baidu.com/?rands=_5111417492879186761502542948031832 HTTP/1.0" 404 1694
+[19/Oct/2014 22:29:23] "GET http://www.soso.com/?rands=_737188516061260267722874958170192 HTTP/1.0" 404 1689
+[19/Oct/2014 22:29:24] "GET http://www.so.com/?rands=_43665402359751403493670401723555056 HTTP/1.0" 404 1683
+[19/Oct/2014 22:29:24] "GET http://60.173.11.232:2222/?rands=_172893648277230412635540821451592880 HTTP/1.0" 404 1716
+[19/Oct/2014 22:29:25] "GET http://mail.126.com/?rands=_691564268865979016579656061034167056 HTTP/1.0" 404 1692
+[19/Oct/2014 23:46:23] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[19/Oct/2014 23:56:28] "GET / HTTP/1.1" 200 13354
+[19/Oct/2014 23:56:30] "GET /robots.txt HTTP/1.1" 404 2128
+[20/Oct/2014 01:13:01] "CONNECT mx2.mail2000.com.tw:25 HTTP/1.0" 404 1659
+[20/Oct/2014 02:06:41] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[20/Oct/2014 02:30:48] "GET /static/js/sun-tab.js HTTP/1.1" 200 850
+[20/Oct/2014 03:50:59] "GET http://www.google.com/ HTTP/1.0" 404 1656
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[20/Oct/2014 04:07:08] "GET http://www.baidu.com/?rands=_76120849523637087637485246150904 HTTP/1.0" 404 1692
+[20/Oct/2014 04:07:08] "GET http://www.soso.com/?rands=_62555156755265601304146080258997716 HTTP/1.0" 404 1691
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[20/Oct/2014 04:07:09] "GET http://60.173.11.232:2222/?rands=_67429266106243781557157176992089272 HTTP/1.0" 404 1715
+[20/Oct/2014 04:07:10] "GET http://mail.126.com/?rands=_40937614729809841366818750608721908 HTTP/1.0" 404 1691
+[20/Oct/2014 04:30:44] "CONNECT mx2.mail2000.com.tw:25 HTTP/1.0" 404 1659
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[20/Oct/2014 08:20:10] "GET /tmUnblock.cgi HTTP/1.1" 404 2137
+[20/Oct/2014 08:20:15] "GET http://www.google.com/ HTTP/1.0" 404 1656
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[20/Oct/2014 08:48:42] "GET http://www.baidu.com/?rands=_76830050346978086380983245683144 HTTP/1.0" 404 1692
+[20/Oct/2014 08:48:42] "GET http://www.soso.com/?rands=_386468928135435012001478642307620 HTTP/1.0" 404 1689
+[20/Oct/2014 08:48:43] "GET http://www.so.com/?rands=_62905504593752042387286303830188788 HTTP/1.0" 404 1683
+[20/Oct/2014 08:48:43] "GET http://60.173.11.232:2222/?rands=_232947724085388762585673902020427436 HTTP/1.0" 404 1716
+[20/Oct/2014 08:48:44] "GET http://mail.126.com/?rands=_513576634504534450827248214377504 HTTP/1.0" 404 1689
+[20/Oct/2014 10:15:21] "GET http://www.google.com/ HTTP/1.0" 404 1656
+[20/Oct/2014 11:52:07] "GET / HTTP/1.1" 200 13354
+[20/Oct/2014 11:52:07] "GET /static/css/public.css HTTP/1.1" 304 0
+[20/Oct/2014 11:52:07] "GET /static/css/style.css HTTP/1.1" 304 0
+[20/Oct/2014 11:52:07] "GET /static/js/jquery-1.3.2.min.js HTTP/1.1" 304 0
+[20/Oct/2014 11:52:07] "GET /static/js/sun-tab.js HTTP/1.1" 304 0
+[20/Oct/2014 11:52:07] "GET /static/My97DatePicker/WdatePicker.js HTTP/1.1" 304 0
+[20/Oct/2014 11:52:07] "GET /static/js/jquery.soChange.js HTTP/1.1" 304 0
+[20/Oct/2014 11:52:07] "GET /static/img/1.jpg HTTP/1.1" 304 0
+[20/Oct/2014 11:52:07] "GET /static/My97DatePicker/skin/WdatePicker.css HTTP/1.1" 304 0
+[20/Oct/2014 11:52:07] "GET /static/img/2.jpg HTTP/1.1" 304 0
+[20/Oct/2014 11:52:07] "GET /static/img/3.jpg HTTP/1.1" 304 0
+[20/Oct/2014 11:52:07] "GET /static/img/4.jpg HTTP/1.1" 304 0
+[20/Oct/2014 11:52:07] "GET /static/img/2_s.jpg HTTP/1.1" 304 0
+[20/Oct/2014 11:52:07] "GET /static/img/1_s.jpg HTTP/1.1" 304 0
+[20/Oct/2014 11:52:08] "GET /static/img/3_s.jpg HTTP/1.1" 304 0
+[20/Oct/2014 11:52:08] "GET /static/img/4_s.jpg HTTP/1.1" 304 0
+[20/Oct/2014 11:52:08] "GET /static/img/background.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:08] "GET /static/img/qilianshan.jpg HTTP/1.1" 304 0
+[20/Oct/2014 11:52:08] "GET /static/img/zan.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:08] "GET /static/img/itabbg1.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:08] "GET /static/img/logo1.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:08] "GET /static/img/search.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:08] "GET /static/img/zhuluoji.jpg HTTP/1.1" 304 0
+[20/Oct/2014 11:52:18] "GET /t/settrip HTTP/1.1" 301 0
+[20/Oct/2014 11:52:18] "GET /t/settrip/ HTTP/1.1" 200 12217
+[20/Oct/2014 11:52:18] "GET /static/css/settrip.css HTTP/1.1" 304 0
+[20/Oct/2014 11:52:18] "GET /static/js/baidumap.js HTTP/1.1" 304 0
+[20/Oct/2014 11:52:18] "GET /static/js/settrip.js HTTP/1.1" 304 0
+[20/Oct/2014 11:52:18] "GET /static/img/minus.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:19] "GET /static/img/plus.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:19] "GET /static/img/sanya.jpg HTTP/1.1" 304 0
+[20/Oct/2014 11:52:20] "GET /static/img/u2.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:20] "GET /static/img/check_bg.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:20] "GET /static/img/check_item_pass.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:20] "GET /static/img/check_ico_pass.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:20] "GET /static/img/check_item_current.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:20] "GET /static/img/ok_pass.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:20] "GET /static/img/check_ico_current.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:20] "GET /static/img/arrow.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:20] "GET /static/img/check_item.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:20] "GET /static/img/check_ico.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:20] "GET /static/img/ok.png HTTP/1.1" 304 0
+[20/Oct/2014 11:52:26] "GET /t/index HTTP/1.1" 301 0
+[20/Oct/2014 11:52:26] "GET /t/index/ HTTP/1.1" 200 13369
+[20/Oct/2014 11:52:28] "GET /t/destination HTTP/1.1" 301 0
+[20/Oct/2014 11:52:28] "GET /t/destination/ HTTP/1.1" 200 5021
+[20/Oct/2014 11:52:28] "GET /static/css/destination.css HTTP/1.1" 200 683
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 223, in write
+    self._write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 223, in write
+    self._write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 223, in write
+    self._write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[20/Oct/2014 11:52:29] "GET /t/hotel/ HTTP/1.1" 404 3787
+[20/Oct/2014 12:46:07] "GET / HTTP/1.1" 200 13354
+[20/Oct/2014 12:49:47] "GET /static/img/icn.png HTTP/1.1" 304 0
+[20/Oct/2014 13:04:39] "GET /manager/html HTTP/1.1" 404 2134
+[20/Oct/2014 13:29:06] "GET /t/settrip/ HTTP/1.1" 200 12217
+[20/Oct/2014 13:29:44] "GET /t/settrip/img/icon.png HTTP/1.1" 404 3829
+[20/Oct/2014 13:29:56] "GET /t/settrip/img/icon.png HTTP/1.1" 404 3829
+[20/Oct/2014 13:53:09] "GET /robots.txt HTTP/1.1" 404 2133
+[20/Oct/2014 14:01:25] "GET http://www.baidu.com/ HTTP/1.1" 404 1652
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[20/Oct/2014 14:02:31] "GET http://www.baidu.com/?rands=_30401284935540009994155181898791180 HTTP/1.0" 404 1695
+[20/Oct/2014 14:02:31] "GET http://www.soso.com/?rands=_90680646136672016024121282038081520 HTTP/1.0" 404 1691
+[20/Oct/2014 14:02:32] "GET http://www.so.com/?rands=_75743886580112523221565181327100904 HTTP/1.0" 404 1683
+[20/Oct/2014 14:02:33] "GET http://60.173.11.232:2222/?rands=_3878983339878658458901301757492332 HTTP/1.0" 404 1714
+[20/Oct/2014 14:02:34] "GET http://mail.126.com/?rands=_1085470788527290139570548394992136 HTTP/1.0" 404 1690
+[20/Oct/2014 14:02:39] "GET /t/settrip/img/icon.png HTTP/1.1" 404 3829
+[20/Oct/2014 14:02:48] "GET /t/settrip/img/icon.png HTTP/1.1" 404 3829
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 627, in __init__
+    self.handle()
+  File "/usr/lib/python2.6/wsgiref/simple_server.py", line 130, in handle
+    self.raw_requestline = self.rfile.readline()
+  File "/usr/lib/python2.6/socket.py", line 450, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[20/Oct/2014 14:04:09] "GET http://www.baidu.com/?rands=_2089200380618215436362227152351275024 HTTP/1.0" 404 1697
+[20/Oct/2014 14:04:09] "GET http://www.soso.com/?rands=_487687238752118446994851425245888 HTTP/1.0" 404 1689
+[20/Oct/2014 14:04:09] "GET http://www.so.com/?rands=_9080561184731689160154401717115864 HTTP/1.0" 404 1682
+[20/Oct/2014 14:04:10] "GET http://60.173.11.232:2222/?rands=_454150852858691211663455171459860000 HTTP/1.0" 404 1716
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 94, in run
+    self.finish_response()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 135, in finish_response
+    self.write(data)
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 218, in write
+    self.send_headers()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 274, in send_headers
+    self.send_preamble()
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 197, in send_preamble
+    self._write('HTTP/%s %s\r\n' % (self.http_version,self.status))
+  File "/usr/lib/python2.6/wsgiref/handlers.py", line 404, in _write
+    self.stdout.write(data)
+  File "/usr/lib/python2.6/socket.py", line 324, in write
+    self.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/SocketServer.py", line 570, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.6/SocketServer.py", line 332, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.6/site-packages/django/core/servers/basehttp.py", line 136, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.6/SocketServer.py", line 628, in __init__
+    self.finish()
+  File "/usr/lib/python2.6/SocketServer.py", line 671, in finish
+    self.wfile.flush()
+  File "/usr/lib/python2.6/socket.py", line 303, in flush
+    self._sock.sendall(buffer(data, write_offset, buffer_size))
+error: [Errno 32] Broken pipe
+[20/Oct/2014 14:32:23] "GET /user.html HTTP/1.1" 404 2130
